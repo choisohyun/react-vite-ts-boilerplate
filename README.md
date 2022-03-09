@@ -1,4 +1,4 @@
-# My React Boilerplate
+# Very Fast React Boilerplate
 
 ## Dependencies
 
