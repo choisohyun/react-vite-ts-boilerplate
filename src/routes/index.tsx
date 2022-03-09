@@ -1,22 +1,12 @@
-import React, { lazy } from 'react';
+import React from 'react';
 import { RouteObject } from 'react-router-dom';
-
-const getRouteConfig = (path: string, componentPath: string) => {
-  return {
-    path,
-    component: getComponent(componentPath),
-  };
-};
-
-const getComponent = (componentPath: string) => {
-  return lazy(() => import(/* webpackChunkName: "contents" */ `@/pages/${componentPath}`));
-};
-
-const Main = getComponent('main');
+import Layout from '@/pages/layout';
+import Main from '@/pages/main';
 
 export default [
   {
-    ...getRouteConfig('/', 'layout'),
+    path: '/',
+    element: <Layout />,
     children: [{ index: true, element: <Main /> }],
   },
 ] as RouteObject[];
