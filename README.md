@@ -38,16 +38,11 @@ $ vite
 $ yarn prod               
 yarn run v1.22.17
 $ vite build
-vite v2.8.6 building for production...                                                                                                                                                     17:01:48
-✓ 1 modules transformed.                                                                                                                                                                   17:01:48
-transforming (17) node_modules/@babel/runtime/helpers/esm/extends.js
- WARN  Generated an empty chunk: "vendor"                                                                                                                                                  17:01:48
-
-
- WARN  Generated an empty chunk: "index"                                                                                                                                                   17:01:48
-
-dist/public/index.html           0.47 KiB                                                                                                                                                  17:01:48
-dist/assets/vendor.e3bb175a.js   0.00 KiB / gzip: 0.02 KiB                                                                                                                                 17:01:48
-✨  Done in 1.61s.
+vite v2.8.6 building for production...                                                                                                                                                                                                                         21:57:44
+✓ 37 modules transformed.                                                                                                                                                                                                                                      21:57:45
+dist/public/index.html           0.55 KiB                                                                                                                                                                                                                      21:57:45
+dist/assets/index.f377a083.js    2.09 KiB / gzip: 1.13 KiB                                                                                                                                                                                                     21:57:45
+dist/assets/vendor.5ad169fc.js   136.42 KiB / gzip: 44.42 KiB                                                                                                                                                                                                  21:57:45
+✨  Done in 2.22s.
 ```
 
