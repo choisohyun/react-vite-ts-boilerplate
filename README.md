@@ -1,12 +1,10 @@
+<p align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=Very%20Fast%20React%20Boilerplate&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=F5F8FA)
+
+</p>
+
 # Very Fast React Boilerplate
-
-## Dependencies
-
-- React
-- Vite
-- Typescript 
-- eslint
-- Prettier
 
 ## How to use
 
@@ -15,6 +13,14 @@ npx react-vite-ts-boilerplate my-app
 yarn dev
 yarn prod
 ```
+
+## Dependencies
+
+- React
+- Vite
+- Typescript 
+- eslint
+- Prettier
 
 - fast dev server
 
