@@ -1,13 +1,13 @@
 {
   "name": "react-vite-ts-boilerplate",
-  "version": "1.0.41",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
     "prod": "vite build"
   },
   "bin": {
-    "create-react-vite": "./bin/react-vite-ts-boilerplate.js"
+    "react-vite-ts-boilerplat": "./bin/react-vite-ts-boilerplate.js"
   },
   "keywords": [
     "react",
