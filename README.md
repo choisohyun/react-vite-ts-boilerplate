@@ -6,6 +6,8 @@
 
 # Very Fast React Boilerplate
 
+[![npm version](https://badge.fury.io/js/react-vite-ts-boilerplate.svg)](https://badge.fury.io/js/react-vite-ts-boilerplate)
+
 ## How to use
 
 ```
