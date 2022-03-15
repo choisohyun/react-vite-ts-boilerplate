@@ -6,7 +6,7 @@ const fs = require('fs');
 if (process.argv.length < 3) {
   console.log('You have to provide a name to your app.');
   console.log('For example :');
-  console.log('    npx create-react-vite my-app');
+  console.log('    npx react-vite-ts-boilerplate my-app');
   process.exit(1);
 }
 
