@@ -11,8 +11,7 @@
 ## How to use
 
 ```
-gh repo clone choisohyun/react-vite-ts-boilerplate
-yarn install
+npx react-vite-ts-boilerplate my-app
 yarn dev
 yarn prod
 ```

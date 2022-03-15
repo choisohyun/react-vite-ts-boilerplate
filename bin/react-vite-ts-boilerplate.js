@@ -43,6 +43,7 @@ async function main() {
 
     console.log('Removing useless files');
     execSync('npx rimraf ./.git'); // 이제 보일러플레이트 git과 관련된 내용 제거
+    execSync('npx rimraf ./bin');
 
     console.log('The installation is done, this is ready to use !');
   } catch (error) {
