@@ -14,26 +14,6 @@ function renderChunks(deps) {
   return chunks;
 }
 
-function transformHtml(mode) {
-  return {
-    name: 'html-transform',
-    transformIndexHtml(html) {
-      const dev = `<script type="module">
-      import RefreshRuntime from "http://localhost:3000/@react-refresh"
-      RefreshRuntime.injectIntoGlobalHook(window)
-      window.$RefreshReg$ = () => {}
-      window.$RefreshSig$ = () => (type) => type
-      window.__vite_plugin_react_preamble_installed__ = true
-    </script>
-    <script type="module" src="http://localhost:3000/@vite/client"></script>
-    <script type="module" src="http://localhost:3000/src/index.tsx"></script>`;
-      const prod = `<script type="module" src="/src/index.tsx"></script>`;
-
-      return html.replace('<div id="mode"></div>', mode === 'development' ? dev : prod);
-    },
-  };
-}
-
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, 'env');
 
@@ -44,7 +24,6 @@ export default defineConfig(({ mode }) => {
         include: ['**/*.tsx', '**/*.ts'],
       }),
       tsconfigPaths(),
-      transformHtml(mode),
       createHtmlPlugin({
         minify: true,
         inject: {
