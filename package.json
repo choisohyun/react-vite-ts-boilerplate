@@ -7,7 +7,7 @@
     "prod": "vite build"
   },
   "bin": {
-    "react-vite-ts-boilerplat": "./bin/react-vite-ts-boilerplate.js"
+    "react-vite-ts-boilerplate": "./bin/react-vite-ts-boilerplate.js"
   },
   "keywords": [
     "react",
