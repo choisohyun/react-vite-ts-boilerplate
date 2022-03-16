@@ -39,11 +39,6 @@ export default defineConfig(({ mode }) => {
       alias: { '@': path.resolve(__dirname, 'src/') },
     },
     css: {
-      preprocessorOptions: {
-        scss: {
-          additionalData: `@import "./src/assets/scss/style.scss";`,
-        },
-      },
       postcss: ctx => ({
         parser: ctx.parser ? 'sugarss' : false,
         map: ctx.env === 'development' ? ctx.map : false,
