@@ -1,0 +1,78 @@
+@mixin background($name, $repeat: no-repeat, $x: center, $y: top, $color: null) {
+  background: url($name) $repeat $x $y;
+}
+
+@mixin clearfix {
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
+
+// ===================================
+// position
+// ===================================
+@mixin position($position, $top: null, $right: null, $bottom: null, $left: null) {
+  position: $position;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+@mixin fixed($args...) {
+  @include position(fixed, $args...);
+}
+
+@mixin absolute($args...) {
+  @include position(absolute, $args...);
+}
+
+@mixin relative($args...) {
+  @include position(relative, $args...);
+}
+
+// ===================================
+// size
+// ===================================
+@mixin size($w: null, $h: $w) {
+  width: $w;
+  height: $h;
+}
+
+// ===================================
+// a11y
+// ===================================
+@mixin a11y {
+  @include absolute($left: -9999em);
+  @include size(1px);
+
+  overflow: hidden;
+  margin: -1px;
+  clip: rect(0, 0, 0, 0);
+}
+
+// ===================================
+// font face
+// use: @include font-face(nbg, '~@/assets/fonts/NanumBarunGothic', normal);
+// ===================================
+@mixin font-face($name, $font-path, $weight: null, $style: normal, $exts: (eot, woff2, woff, ttf)) {
+  $src: null;
+  $formats: (
+    otf: 'openType',
+    ttf: 'trueType',
+  );
+
+  @each $ext in $exts {
+    $format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
+    $src: append($src, url(quote($font-path + '.' + $ext)) format(quote($format)), $separator: comma);
+  }
+
+  @font-face {
+    font-family: quote($name);
+    font-weight: $weight;
+    font-style: $style;
+    src: $src;
+  }
+}

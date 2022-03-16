@@ -1,6 +1,6 @@
 {
   "name": "react-vite-ts-boilerplate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
@@ -37,7 +37,6 @@
     "@typescript-eslint/parser": "5.4.0",
     "@vitejs/plugin-react": "^1.2.0",
     "autoprefixer": "^10.4.2",
-    "babel-eslint": "10.1.0",
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.19.1",
     "cssnano": "^5.1.1",
