@@ -26,6 +26,13 @@ jobs:
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/react-vite-ts-boilerplate
+      - run: yarn install 
+      - run: npm run release
+      - name: Git init
+        run: |
+          git config --global user.name '${{github.actor}}'
+          git config --global user.email '${{github.actor}}@users.noreply.github.com'
+          git push --follow-tags origin master
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
