@@ -1,19 +1,32 @@
+# Very Fast React Boilerplate
+
 <p align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=Very%20Fast%20React%20Boilerplate&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=F5F8FA)
 
 </p>
 
-# Very Fast React Boilerplate
 
-[![npm version](https://badge.fury.io/js/react-vite-ts-boilerplate.svg)](https://badge.fury.io/js/react-vite-ts-boilerplate)
+[![npm version](https://badge.fury.io/js/react-vite-ts-boilerplate.svg)](https://www.npmjs.com/package/react-vite-ts-boilerplate)
 
-## How to use
+## Getting started
+
+1. Gets the git project. (Auto run installation)
 
 ```
-npx react-vite-ts-boilerplate my-app
-yarn dev
-yarn prod
+  npx react-vite-ts-boilerplate my-app
+```
+
+2. Start the dev server. And open http://localhost:3000 in your browser.
+
+```
+  yarn dev
+```
+
+3. Build your product.
+
+```
+  yarn prod
 ```
 
 ## Dependencies
@@ -23,6 +36,8 @@ yarn prod
 - Typescript 
 - eslint
 - Prettier
+
+## Performance
 
 - fast dev server
 
@@ -52,4 +67,3 @@ dist/assets/index.f377a083.js    2.09 KiB / gzip: 1.13 KiB                      
 dist/assets/vendor.5ad169fc.js   136.42 KiB / gzip: 44.42 KiB                                                                                                                                                                                                  21:57:45
 ✨  Done in 2.22s.
 ```
-
