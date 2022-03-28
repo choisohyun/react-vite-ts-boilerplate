@@ -1,8 +1,8 @@
-import React, { useCallback, useState } from 'react';
+import React from 'react';
+import { useCounter } from '@/hooks/useCounter';
 
 const Main = () => {
-  const [count, setCount] = useState(0);
-  const increment = useCallback(() => setCount(x => x + 1), []);
+  const { count, increment } = useCounter();
 
   return (
     <>
