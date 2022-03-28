@@ -20,7 +20,7 @@
         "src/*"
       ]
     },
-    "types": ["node", "jest"],
+    "types": ["node", "jest", "@testing-library/jest-dom"],
     "typeRoots": ["./node_modules/@types"],
 
     /* Emit */
