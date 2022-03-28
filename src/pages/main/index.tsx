@@ -7,7 +7,9 @@ const Main = () => {
   return (
     <>
       <h2 className="test">Hello Vite + React!</h2>
-      {/*<p>{import.meta.env.VITE_TEST}</p>*/}
+      <p className="env">
+        {import.meta.env.VITE_TEST || process.env.NODE_ENV === 'test' ? 'development' : 'production'}
+      </p>
       <button type="button" onClick={increment}>
         count is: {count}
       </button>
