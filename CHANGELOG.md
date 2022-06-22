@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.8 (2022-06-22)
+
+
+### Bug Fixes
+
+* github workflows command ([ac146de](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/ac146dec02666fe2e9c024a51423fab25c61645d))
+
 ### 1.1.7 (2022-06-22)
 
 ### 1.1.6 (2022-06-21)
