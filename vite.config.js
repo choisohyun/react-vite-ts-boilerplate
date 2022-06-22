@@ -33,7 +33,6 @@ export default defineConfig(({ mode }) => {
             MODE: mode,
           },
         },
-        template: 'public/index.html',
       }),
       checker({ typescript: true }),
     ],
