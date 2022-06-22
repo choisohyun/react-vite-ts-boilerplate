@@ -2,6 +2,7 @@ import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 import tsconfigPaths from 'vite-tsconfig-paths';
 import { createHtmlPlugin } from 'vite-plugin-html';
+import checker from 'vite-plugin-checker';
 import path from 'path';
 
 import { dependencies } from './package.json';
@@ -34,6 +35,7 @@ export default defineConfig(({ mode }) => {
         },
         template: 'public/index.html',
       }),
+      checker({ typescript: true }),
     ],
     resolve: {
       alias: { '@': path.resolve(__dirname, 'src/') },
