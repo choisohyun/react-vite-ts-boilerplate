@@ -67,3 +67,5 @@ dist/assets/index.f377a083.js    2.09 KiB / gzip: 1.13 KiB                      
 dist/assets/vendor.5ad169fc.js   136.42 KiB / gzip: 44.42 KiB                                                                                                                                                                                                  21:57:45
 ✨  Done in 2.22s.
 ```
+
+- Type checking by [vite-plugin-checker](https://www.npmjs.com/package/vite-plugin-checker)
