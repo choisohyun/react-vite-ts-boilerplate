@@ -1,4 +1,3 @@
-import React from 'react';
 import { describe, expect, it } from 'vitest';
 import { render, screen, userEvent } from './test-utils';
 import Main from '../src/pages/main';
