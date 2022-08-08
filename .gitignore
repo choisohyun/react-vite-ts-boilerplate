@@ -115,12 +115,6 @@ dist
 .vscode-test
 .vscode/
 
-# yarn v2
-
-.yarn/cache
-.yarn/unplugged
-.yarn/build-state.yml
-.pnp.*
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
