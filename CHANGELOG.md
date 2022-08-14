@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.0...v1.2.1) (2022-08-14)
+
+
+### Bug Fixes
+
+* releaserc 설정 추가 ([f56b827](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/f56b82742ada223383d493223b37d0e594458b64))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
