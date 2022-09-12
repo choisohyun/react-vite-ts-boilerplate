@@ -1,3 +1,15 @@
+## [1.2.2](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.1...v1.2.2) (2022-09-12)
+
+
+### Bug Fixes
+
+* yarn version to 4.0.0-rc.18 for yarn install ([a392a99](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/a392a99877bb17a7c51c58971ad65ca65049b7c4))
+
+
+### Performance Improvements
+
+* add .yarn to .npmignore ([4b63452](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/4b63452efd337e6c19675e74f8623f7c3c79dc06))
+
 ## [1.2.1](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.0...v1.2.1) (2022-08-14)
 
 
