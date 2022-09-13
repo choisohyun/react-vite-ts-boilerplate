@@ -42,7 +42,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.1.0"],\
-          ["@vitest/ui", "npm:0.21.0"],\
+          ["@vitest/ui", "npm:0.23.2"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.10"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.12.0"],\
@@ -2348,10 +2348,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@vitest/ui", [\
-      ["npm:0.21.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@vitest-ui-npm-0.21.0-fd86dabab9-9.zip/node_modules/@vitest/ui/",\
+      ["npm:0.23.2", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@vitest-ui-npm-0.23.2-900a892491-9.zip/node_modules/@vitest/ui/",\
         "packageDependencies": [\
-          ["@vitest/ui", "npm:0.21.0"],\
+          ["@vitest/ui", "npm:0.23.2"],\
           ["sirv", "npm:2.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -9500,7 +9500,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.1.0"],\
-          ["@vitest/ui", "npm:0.21.0"],\
+          ["@vitest/ui", "npm:0.23.2"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.10"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.12.0"],\
@@ -11411,7 +11411,7 @@ const RAW_RUNTIME_STATE =
           ["@types/vitest__browser", null],\
           ["@types/vitest__ui", null],\
           ["@vitest/browser", null],\
-          ["@vitest/ui", "npm:0.21.0"],\
+          ["@vitest/ui", "npm:0.23.2"],\
           ["c8", "npm:7.12.0"],\
           ["chai", "npm:4.3.6"],\
           ["debug", "virtual:ee1bbcab87c0701d4ea83dd18afa59b10c6343191c17b3a8e7844ecdde3ca8e8977791131460b822baae289e9261b3b228709bc45987d850e69091b4d363edfa#npm:4.3.4"],\
