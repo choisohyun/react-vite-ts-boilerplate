@@ -2101,12 +2101,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.4.7":
-  version: 10.4.7
-  resolution: "autoprefixer@npm:10.4.7"
+"autoprefixer@npm:10.4.10":
+  version: 10.4.10
+  resolution: "autoprefixer@npm:10.4.10"
   dependencies:
-    browserslist: "npm:^4.20.3"
-    caniuse-lite: "npm:^1.0.30001335"
+    browserslist: "npm:^4.21.3"
+    caniuse-lite: "npm:^1.0.30001399"
     fraction.js: "npm:^4.2.0"
     normalize-range: "npm:^0.1.2"
     picocolors: "npm:^1.0.0"
@@ -2115,7 +2115,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: 082314ef91c339ff424e2af85c631dc3e8d39bb2817b0fccf3a8bf616c223ab327e1b906f7843e7849fd74f8143b4085b8b11335de365769cce01965719c17df
+  checksum: a2538cddfd836610b3037b316c1d8e643af525c7d8908ff0bddecbb88c8c2c3379a3f283d551cbad0ec5dcbc991a9ddb6de8608f57ae159050fae89e7f616c95
   languageName: node
   linkType: hard
 
@@ -2238,6 +2238,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"browserslist@npm:^4.21.3":
+  version: 4.21.3
+  resolution: "browserslist@npm:4.21.3"
+  dependencies:
+    caniuse-lite: "npm:^1.0.30001370"
+    electron-to-chromium: "npm:^1.4.202"
+    node-releases: "npm:^2.0.6"
+    update-browserslist-db: "npm:^1.0.5"
+  bin:
+    browserslist: cli.js
+  checksum: 1c12b4b9b69138e1697aee58ad8b7e706fc868a90c03f9973ad8cf2bc5b283ccda07b4e7e751b7301b6df4726a41c6e8a9245e18ab3b11e0e4bc2cbfaeabaff3
+  languageName: node
+  linkType: hard
+
 "buffer-from@npm:^1.0.0":
   version: 1.1.2
   resolution: "buffer-from@npm:1.1.2"
@@ -2349,10 +2363,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001335, caniuse-lite@npm:^1.0.30001358":
+"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001358":
   version: 1.0.30001358
   resolution: "caniuse-lite@npm:1.0.30001358"
   checksum: 1ebc924924ce929c3e7598999774dca6370a57d02b282e156693f07e642ea5ff8b85a071e9ae3991d724e36abf0b61c1cf8964b9c9890613d97b01855b4d735a
+  languageName: node
+  linkType: hard
+
+"caniuse-lite@npm:^1.0.30001370, caniuse-lite@npm:^1.0.30001399":
+  version: 1.0.30001399
+  resolution: "caniuse-lite@npm:1.0.30001399"
+  checksum: 3bef74244edad4ceb75e4ed59b280185672667743e65306b5e00b42394e2d4beb2493085594553044232c8674ad9198cf9c6aa1956067a74ce0e47477d07ebf4
   languageName: node
   linkType: hard
 
@@ -3496,6 +3517,13 @@ __metadata:
   version: 1.4.165
   resolution: "electron-to-chromium@npm:1.4.165"
   checksum: f2b78984acc0c97d35578f8f3383c89631dd6ed8b61894bcae70a6f7abc96db10735eac246849d40ce011b8a8834a1f3a1c409d04f666e73f87b428b420c9bb5
+  languageName: node
+  linkType: hard
+
+"electron-to-chromium@npm:^1.4.202":
+  version: 1.4.248
+  resolution: "electron-to-chromium@npm:1.4.248"
+  checksum: a6a6b52e4bcd2cc246745b0fcb35a45913204bc4efff1a3fe9ddb1150f808f6cc42e612e6db48832d1038d42678de7a6f71b69a09d6b1c99d42303912fc07e60
   languageName: node
   linkType: hard
 
@@ -6288,6 +6316,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"node-releases@npm:^2.0.6":
+  version: 2.0.6
+  resolution: "node-releases@npm:2.0.6"
+  checksum: 6d4a77d1566d9cf13d835bb2a9c4080c667417353260ba69092d570313c492772a030b5733f52838d90608e6ad558ab969673c67bc948e29143e527661e265b3
+  languageName: node
+  linkType: hard
+
 "nopt@npm:^5.0.0":
   version: 5.0.0
   resolution: "nopt@npm:5.0.0"
@@ -7699,7 +7734,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:5.4.0"
     "@vitejs/plugin-react": "npm:2.0.0"
     "@vitest/ui": "npm:0.21.0"
-    autoprefixer: "npm:10.4.7"
+    autoprefixer: "npm:10.4.10"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.11.3"
     core-js: "npm:3.23.2"
@@ -9164,6 +9199,20 @@ __metadata:
   bin:
     browserslist-lint: cli.js
   checksum: 5778dfc55a78469f4b6d6f530937dcccb16b1c58200eb42f41d5c642dd0f9d6ac294ee2a100284c32548e0962c6a8c4fdc9af242f28a0d0e87a1ed0635663e07
+  languageName: node
+  linkType: hard
+
+"update-browserslist-db@npm:^1.0.5":
+  version: 1.0.9
+  resolution: "update-browserslist-db@npm:1.0.9"
+  dependencies:
+    escalade: "npm:^3.1.1"
+    picocolors: "npm:^1.0.0"
+  peerDependencies:
+    browserslist: ">= 4.21.0"
+  bin:
+    browserslist-lint: cli.js
+  checksum: a418012808712ee969f21b5b36fb971d8fe510c333b984dfd02c46c4548b0d4dc9c4e605b420ea77823daebe414ae55a99cb1f56183b799413e23ca5ea204d85
   languageName: node
   linkType: hard
 
