@@ -3121,16 +3121,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cssnano@npm:5.1.12":
-  version: 5.1.12
-  resolution: "cssnano@npm:5.1.12"
+"cssnano@npm:5.1.13":
+  version: 5.1.13
+  resolution: "cssnano@npm:5.1.13"
   dependencies:
     cssnano-preset-default: "npm:^5.2.12"
     lilconfig: "npm:^2.0.3"
     yaml: "npm:^1.10.2"
   peerDependencies:
     postcss: ^8.2.15
-  checksum: 0819ae795b8387eef3d6cd97a1512fc7e1f4767390ace8dc301e0b429f38e8d88bc44eb70c973d6831b62af1d5b560b7ed66bfbb568cf100453b1a11e7ecf6ea
+  checksum: b2326187f1537bfa19921349bd656c579b558429d5058fcf4459036be4ac1958f7aa00dd491285414774b95977a6fe275bf1e221911d8d81dcf6d88b2ae3d2ed
   languageName: node
   linkType: hard
 
@@ -7729,7 +7729,7 @@ __metadata:
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.11.3"
     core-js: "npm:3.23.2"
-    cssnano: "npm:5.1.12"
+    cssnano: "npm:5.1.13"
     eslint: "npm:7.32.0"
     eslint-config-prettier: "npm:8.5.0"
     eslint-plugin-prettier: "npm:4.0.0"
