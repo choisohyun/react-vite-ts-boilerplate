@@ -7788,7 +7788,7 @@ __metadata:
     react-dom: "npm:18.2.0"
     react-router-dom: "npm:6.3.0"
     sass: "npm:1.43.5"
-    semantic-release: "npm:19.0.3"
+    semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
     typescript: "npm:4.7.4"
     vite: "npm:3.0.4"
@@ -8217,9 +8217,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-release@npm:19.0.3":
-  version: 19.0.3
-  resolution: "semantic-release@npm:19.0.3"
+"semantic-release@npm:19.0.5":
+  version: 19.0.5
+  resolution: "semantic-release@npm:19.0.5"
   dependencies:
     "@semantic-release/commit-analyzer": "npm:^9.0.2"
     "@semantic-release/error": "npm:^3.0.0"
@@ -8251,7 +8251,7 @@ __metadata:
     yargs: "npm:^16.2.0"
   bin:
     semantic-release: bin/semantic-release.js
-  checksum: ce8ea4fd201fa0be322222fa0ac79a1df3b84649f8c84ac6f87cb8641c9a4305e23cc5ce67f2edab115e504f795446bd8522326ec19e2abb62e9ebd995a41e4e
+  checksum: 4ccdf11a14b00c1575705959e9d9e8bd0fb21c090f9b2005188547b1fe6462399db88455dc037c74b10ecfb144d9a21a78bc7ce1db7d2b7edadb7377134402c2
   languageName: node
   linkType: hard
 
