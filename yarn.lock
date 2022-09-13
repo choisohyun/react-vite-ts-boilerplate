@@ -2317,9 +2317,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"c8@npm:7.11.3":
-  version: 7.11.3
-  resolution: "c8@npm:7.11.3"
+"c8@npm:7.12.0":
+  version: 7.12.0
+  resolution: "c8@npm:7.12.0"
   dependencies:
     "@bcoe/v8-coverage": "npm:^0.2.3"
     "@istanbuljs/schema": "npm:^0.1.3"
@@ -2335,7 +2335,7 @@ __metadata:
     yargs-parser: "npm:^20.2.9"
   bin:
     c8: bin/c8.js
-  checksum: f94d3ab30928396493db9d423b746375816a553ba9f4f4655c57a9b7312d0916474baf289ec7b6c49410faee2e1794acee6e4c91ee065c25fb71de898cf5b421
+  checksum: b04042243eb30ec9d464e74565724340f95ba52007e34efcb30480b6bfea1ef6319806c1ed38c04a7917f224f8d74dac13a789fe7bc9cf835557201c215c3573
   languageName: node
   linkType: hard
 
@@ -7774,7 +7774,7 @@ __metadata:
     "@vitest/ui": "npm:0.21.0"
     autoprefixer: "npm:10.4.10"
     babel-polyfill: "npm:6.26.0"
-    c8: "npm:7.11.3"
+    c8: "npm:7.12.0"
     core-js: "npm:3.23.2"
     cssnano: "npm:5.1.13"
     eslint: "npm:7.32.0"

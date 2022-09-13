@@ -45,7 +45,7 @@ const RAW_RUNTIME_STATE =
           ["@vitest/ui", "npm:0.21.0"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.10"],\
           ["babel-polyfill", "npm:6.26.0"],\
-          ["c8", "npm:7.11.3"],\
+          ["c8", "npm:7.12.0"],\
           ["core-js", "npm:3.23.2"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.13"],\
           ["eslint", "npm:7.32.0"],\
@@ -2952,10 +2952,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["c8", [\
-      ["npm:7.11.3", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/c8-npm-7.11.3-42cccbff9b-9.zip/node_modules/c8/",\
+      ["npm:7.12.0", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/c8-npm-7.12.0-c808cac509-9.zip/node_modules/c8/",\
         "packageDependencies": [\
-          ["c8", "npm:7.11.3"],\
+          ["c8", "npm:7.12.0"],\
           ["@bcoe/v8-coverage", "npm:0.2.3"],\
           ["@istanbuljs/schema", "npm:0.1.3"],\
           ["find-up", "npm:5.0.0"],\
@@ -9503,7 +9503,7 @@ const RAW_RUNTIME_STATE =
           ["@vitest/ui", "npm:0.21.0"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.10"],\
           ["babel-polyfill", "npm:6.26.0"],\
-          ["c8", "npm:7.11.3"],\
+          ["c8", "npm:7.12.0"],\
           ["core-js", "npm:3.23.2"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.13"],\
           ["eslint", "npm:7.32.0"],\
@@ -11412,7 +11412,7 @@ const RAW_RUNTIME_STATE =
           ["@types/vitest__ui", null],\
           ["@vitest/browser", null],\
           ["@vitest/ui", "npm:0.21.0"],\
-          ["c8", "npm:7.11.3"],\
+          ["c8", "npm:7.12.0"],\
           ["chai", "npm:4.3.6"],\
           ["debug", "virtual:ee1bbcab87c0701d4ea83dd18afa59b10c6343191c17b3a8e7844ecdde3ca8e8977791131460b822baae289e9261b3b228709bc45987d850e69091b4d363edfa#npm:4.3.4"],\
           ["happy-dom", null],\
