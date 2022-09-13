@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:28.1.8"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.19"],\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.0.0"],\
@@ -1742,7 +1742,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/runtime", "npm:7.18.3"],\
           ["@testing-library/dom", "npm:8.16.1"],\
           ["@types/react", "npm:18.0.19"],\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"]\
         ],\
@@ -1769,7 +1769,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@babel/runtime", "npm:7.18.3"],\
           ["@types/react", "npm:18.0.19"],\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["@types/react-test-renderer", null],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"],\
@@ -2022,10 +2022,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/react-dom", [\
-      ["npm:18.0.5", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-react-dom-npm-18.0.5-acb34f8ae9-9.zip/node_modules/@types/react-dom/",\
+      ["npm:18.0.6", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-react-dom-npm-18.0.6-55949dcf84-9.zip/node_modules/@types/react-dom/",\
         "packageDependencies": [\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["@types/react", "npm:18.0.14"]\
         ],\
         "linkType": "HARD"\
@@ -9377,7 +9377,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.3.0"],\
           ["@types/react", "npm:18.0.19"],\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["history", "npm:5.3.0"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"],\
@@ -9409,7 +9409,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:28.1.8"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.19"],\
-          ["@types/react-dom", "npm:18.0.5"],\
+          ["@types/react-dom", "npm:18.0.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.4.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.0.0"],\
