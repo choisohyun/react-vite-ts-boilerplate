@@ -1434,9 +1434,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/react@npm:13.3.0":
-  version: 13.3.0
-  resolution: "@testing-library/react@npm:13.3.0"
+"@testing-library/react@npm:13.4.0":
+  version: 13.4.0
+  resolution: "@testing-library/react@npm:13.4.0"
   dependencies:
     "@babel/runtime": "npm:^7.12.5"
     "@testing-library/dom": "npm:^8.5.0"
@@ -1444,7 +1444,7 @@ __metadata:
   peerDependencies:
     react: ^18.0.0
     react-dom: ^18.0.0
-  checksum: a29c3335cb23ee30c945bca3c79904c441d506152c83cd814cfc009571df31c32cdf300369d6c070f99f92610441e69ce232ca3761a1fbac12dfb1f5bffa8597
+  checksum: 2030d32070b3d43bc374843e9989192be2bdc44d7280aebe17c9223637134b4f769c7077f704d5771cd29174b3f28b91dfae09a95a5d2b5d5db2a5ee689ef67f
   languageName: node
   linkType: hard
 
@@ -7761,7 +7761,7 @@ __metadata:
     "@semantic-release/changelog": "npm:6.0.1"
     "@semantic-release/git": "npm:10.0.1"
     "@testing-library/dom": "npm:8.17.1"
-    "@testing-library/react": "npm:13.3.0"
+    "@testing-library/react": "npm:13.4.0"
     "@testing-library/react-hooks": "npm:8.0.1"
     "@testing-library/user-event": "npm:14.4.3"
     "@types/jest": "npm:28.1.8"
