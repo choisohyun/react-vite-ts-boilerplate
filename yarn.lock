@@ -1798,12 +1798,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/ui@npm:0.21.0":
-  version: 0.21.0
-  resolution: "@vitest/ui@npm:0.21.0"
+"@vitest/ui@npm:0.23.2":
+  version: 0.23.2
+  resolution: "@vitest/ui@npm:0.23.2"
   dependencies:
     sirv: "npm:^2.0.2"
-  checksum: 11bbb9f6c7447d598527fd158bfe4f0e743d72818bbe32d535303250cdd95ba96095f037a28f060de296aeeaf6630526ad9a878fca6dc0c934f2140a38483067
+  checksum: 3970c466c727235cbe8ac938da49070ab17c46c4ac4db1fe6ffa0da76e1c3b8dbc3dd3824b98dea6b0bc47d3f785984b63095e0c897ecd5d31289426985f1c9c
   languageName: node
   linkType: hard
 
@@ -7771,7 +7771,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": "npm:5.4.0"
     "@typescript-eslint/parser": "npm:5.4.0"
     "@vitejs/plugin-react": "npm:2.1.0"
-    "@vitest/ui": "npm:0.21.0"
+    "@vitest/ui": "npm:0.23.2"
     autoprefixer: "npm:10.4.10"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.12.0"
