@@ -34,7 +34,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/dom", "npm:8.16.1"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.3.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
-          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.2"],\
+          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
           ["@types/jest", "npm:28.1.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.14"],\
@@ -1748,17 +1748,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@testing-library/user-event", [\
-      ["npm:14.4.2", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@testing-library-user-event-npm-14.4.2-6d8c511652-9.zip/node_modules/@testing-library/user-event/",\
+      ["npm:14.4.3", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@testing-library-user-event-npm-14.4.3-2d1a75355f-9.zip/node_modules/@testing-library/user-event/",\
         "packageDependencies": [\
-          ["@testing-library/user-event", "npm:14.4.2"]\
+          ["@testing-library/user-event", "npm:14.4.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.2", {\
-        "packageLocation": "./.yarn/__virtual__/@testing-library-user-event-virtual-f5c012eb24/6/tmp/renovate-cache/others/berry/cache/@testing-library-user-event-npm-14.4.2-6d8c511652-9.zip/node_modules/@testing-library/user-event/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3", {\
+        "packageLocation": "./.yarn/__virtual__/@testing-library-user-event-virtual-051540d890/6/tmp/renovate-cache/others/berry/cache/@testing-library-user-event-npm-14.4.3-2d1a75355f-9.zip/node_modules/@testing-library/user-event/",\
         "packageDependencies": [\
-          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.2"],\
+          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
           ["@testing-library/dom", "npm:8.16.1"],\
           ["@types/testing-library__dom", null]\
         ],\
@@ -9235,7 +9235,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/dom", "npm:8.16.1"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.3.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
-          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.2"],\
+          ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
           ["@types/jest", "npm:28.1.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.14"],\
