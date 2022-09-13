@@ -5,6 +5,7 @@
   ],
   "packageRules": [
     {
+      "excludePackagePatterns": ["^eslint-", "^prettier-", "stylelint-"],
       "automerge": true,
       "major": {
         "automerge": false
