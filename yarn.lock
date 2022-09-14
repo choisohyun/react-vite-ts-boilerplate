@@ -2515,13 +2515,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ci-info@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "ci-info@npm:2.0.0"
-  checksum: 3419c7c2e86345d5b9c6d4ee8d43b9b557e45bddcf491e6d0b14f1ea815fc2147a62e328b6da30cf2a748f9592c3ceafc702e68b34b9e2e58fd562c359cae17d
-  languageName: node
-  linkType: hard
-
 "ci-info@npm:^3.2.0":
   version: 3.4.0
   resolution: "ci-info@npm:3.4.0"
@@ -2749,13 +2742,6 @@ __metadata:
     array-ify: "npm:^1.0.0"
     dot-prop: "npm:^5.1.0"
   checksum: 51fa4e07d360e7dee6d2eaba1f4af310cb69cc547fe8c7fefcfb98b519d1c5d3c8d068f990fa85d3bfd4e92c3192f174338b22321abba2fad2a25d3bc73d1317
-  languageName: node
-  linkType: hard
-
-"compare-versions@npm:^3.6.0":
-  version: 3.6.0
-  resolution: "compare-versions@npm:3.6.0"
-  checksum: b01e12e431b00bafab8ea1986fd3d4366633cc838847a5b3dc9bfa446494ec357d6df36cc71c91fb97d3ca091923d4badb90e1c94c99613755403ec21d3ee41e
   languageName: node
   linkType: hard
 
@@ -5061,24 +5047,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:4.3.8":
-  version: 4.3.8
-  resolution: "husky@npm:4.3.8"
-  dependencies:
-    chalk: "npm:^4.0.0"
-    ci-info: "npm:^2.0.0"
-    compare-versions: "npm:^3.6.0"
-    cosmiconfig: "npm:^7.0.0"
-    find-versions: "npm:^4.0.0"
-    opencollective-postinstall: "npm:^2.0.2"
-    pkg-dir: "npm:^5.0.0"
-    please-upgrade-node: "npm:^3.2.0"
-    slash: "npm:^3.0.0"
-    which-pm-runs: "npm:^1.0.0"
+"husky@npm:8.0.1":
+  version: 8.0.1
+  resolution: "husky@npm:8.0.1"
   bin:
-    husky-run: bin/run.js
-    husky-upgrade: lib/upgrader/bin.js
-  checksum: a3cb461ffd46c48dc09850d3a600df51b323be0fc927e1e9b421ad76243e17a654c60e4b2e7cabc0d326dbc48022b3a2916c10df838397ed0b27ab3940425bab
+    husky: lib/bin.js
+  checksum: 10a6a7d45981770a995ccb1122771842296e272acda5b7e53e9ad54230c14f3263933c2e76d6868c819e5a961769c48493f3de3697e480e5fc89e47102013942
   languageName: node
   linkType: hard
 
@@ -6985,15 +6959,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"opencollective-postinstall@npm:^2.0.2":
-  version: 2.0.3
-  resolution: "opencollective-postinstall@npm:2.0.3"
-  bin:
-    opencollective-postinstall: index.js
-  checksum: 7a9ec632fe8c046351bbe14add77f1d00e459a5dac2f1ef99126d3170faac5e35b1c16ea41d88e9488c8e0ac4d4378f03cc19b03d8ec976303105541cc793b06
-  languageName: node
-  linkType: hard
-
 "opener@npm:^1.5.2":
   version: 1.5.2
   resolution: "opener@npm:1.5.2"
@@ -7380,24 +7345,6 @@ __metadata:
     find-up: "npm:^2.0.0"
     load-json-file: "npm:^4.0.0"
   checksum: 7b85cdcb9cf9a05d6516815a8701394974e994c805a16b7d0e290caa56bb3cc3a402ebfee519fc3da66b23562b22bf49d5f5dd5339f07e84f2e9d0f835f17cc6
-  languageName: node
-  linkType: hard
-
-"pkg-dir@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "pkg-dir@npm:5.0.0"
-  dependencies:
-    find-up: "npm:^5.0.0"
-  checksum: cd67fb907e216bfca98c8c2c1ca434b2722e950201e6262b19b70c18268ee5bf2dde64366b3b51a626e28e2f193da41643d6fdcc210c8a0961fc351faa9259c8
-  languageName: node
-  linkType: hard
-
-"please-upgrade-node@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "please-upgrade-node@npm:3.2.0"
-  dependencies:
-    semver-compare: "npm:^1.0.0"
-  checksum: 89a9eaee9e3fbde07cac98f9cd71c6737d99366fd7603ad3b9abb8dffae03b3941ac17d7009ce1e2503950e1c1811f514194f848cc921d3d8b933eeae92930d1
   languageName: node
   linkType: hard
 
@@ -8060,7 +8007,7 @@ __metadata:
     eslint: "npm:7.32.0"
     eslint-config-prettier: "npm:8.5.0"
     eslint-plugin-prettier: "npm:4.2.1"
-    husky: "npm:4.3.8"
+    husky: "npm:8.0.1"
     jsdom: "npm:19.0.0"
     lint-staged: "npm:13.0.3"
     postcss: "npm:8.4.16"
@@ -8553,13 +8500,6 @@ __metadata:
   bin:
     semantic-release: bin/semantic-release.js
   checksum: 4ccdf11a14b00c1575705959e9d9e8bd0fb21c090f9b2005188547b1fe6462399db88455dc037c74b10ecfb144d9a21a78bc7ce1db7d2b7edadb7377134402c2
-  languageName: node
-  linkType: hard
-
-"semver-compare@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "semver-compare@npm:1.0.0"
-  checksum: 1d88e82a6e911032911001e4a23c309a1e40ecb2c60332516b8e1a3419ac230af6b09f2eb02cf3370195da961e0b9dea52256eaa68040d1eb38cc013aeb75789
   languageName: node
   linkType: hard
 
@@ -9934,13 +9874,6 @@ __metadata:
     tr46: "npm:~0.0.3"
     webidl-conversions: "npm:^3.0.0"
   checksum: bd0cc6b75b84b3d032e30712e2f40eefbc07ecd14f093e87b2f81bb68bce10a3961e8eb646a7a8cc9c2352548fb501eeff668c8b2595fd7c6ea91d1406ce11ee
-  languageName: node
-  linkType: hard
-
-"which-pm-runs@npm:^1.0.0":
-  version: 1.1.0
-  resolution: "which-pm-runs@npm:1.1.0"
-  checksum: 08ca092bc2ffcdb4ac76eb22cad23b34151e2ae755e1b5ce6e0139a37789bf5202b0ccd84ee03b0cb32ab9e091e98f1b522e06ea4e96f2dbecbb253b87f9f471
   languageName: node
   linkType: hard
 
