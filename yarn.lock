@@ -8077,7 +8077,7 @@ __metadata:
     standard-version: "npm:9.5.0"
     typescript: "npm:4.8.3"
     vite: "npm:3.1.0"
-    vite-plugin-checker: "npm:0.4.9"
+    vite-plugin-checker: "npm:0.5.1"
     vite-plugin-html: "npm:3.2.0"
     vite-tsconfig-paths: "npm:3.5.0"
     vitest: "npm:0.21.0"
@@ -9617,9 +9617,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-checker@npm:0.4.9":
-  version: 0.4.9
-  resolution: "vite-plugin-checker@npm:0.4.9"
+"vite-plugin-checker@npm:0.5.1":
+  version: 0.5.1
+  resolution: "vite-plugin-checker@npm:0.5.1"
   dependencies:
     "@babel/code-frame": "npm:^7.12.13"
     ansi-escapes: "npm:^4.3.0"
@@ -9637,10 +9637,21 @@ __metadata:
     vscode-languageserver-textdocument: "npm:^1.0.1"
     vscode-uri: "npm:^3.0.2"
   peerDependencies:
+    eslint: ">=7"
+    typescript: "*"
     vite: ^2.0.0 || ^3.0.0-0
-  bin:
-    vite-plugin-checker-vls: bin/vls
-  checksum: 7d1c8371c854e2a603ec8cd65d470b24561ca095b788b72a6e7845875c86fecd1e0fe9f92b4fde55ecb553dbc61dbc2336df06cc0356d14016a03582bd2e3b77
+    vls: "*"
+    vti: "*"
+  peerDependenciesMeta:
+    eslint:
+      optional: true
+    typescript:
+      optional: true
+    vls:
+      optional: true
+    vti:
+      optional: true
+  checksum: 18e91a9eddaac98ba322d45143fa42db642fc0f0f255cccc268dc138dc552ba5845003fe0d56e505336e6fc1673535109c4740899bdaea17820e9fc33f7a1589
   languageName: node
   linkType: hard
 
