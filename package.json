@@ -60,7 +60,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "husky": "4.3.8",
     "jsdom": "19.0.0",
-    "lint-staged": "12.5.0",
+    "lint-staged": "13.0.3",
     "postcss": "8.4.16",
     "postcss-import": "14.1.0",
     "postcss-load-config": "3.1.4",
