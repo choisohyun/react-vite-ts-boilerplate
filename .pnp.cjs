@@ -57,7 +57,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.16"],\
           ["postcss-import", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.1.0"],\
           ["postcss-load-config", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.4"],\
-          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.2.1"],\
+          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:7.0.1"],\
           ["postcss-nested", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.0.6"],\
           ["prettier", "npm:2.7.1"],\
           ["react", "npm:18.2.0"],\
@@ -8588,17 +8588,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["postcss-loader", [\
-      ["npm:6.2.1", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/postcss-loader-npm-6.2.1-45828eb0de-9.zip/node_modules/postcss-loader/",\
+      ["npm:7.0.1", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/postcss-loader-npm-7.0.1-444ecd58b4-9.zip/node_modules/postcss-loader/",\
         "packageDependencies": [\
-          ["postcss-loader", "npm:6.2.1"]\
+          ["postcss-loader", "npm:7.0.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.2.1", {\
-        "packageLocation": "./.yarn/__virtual__/postcss-loader-virtual-8a86a48e7f/6/tmp/renovate-cache/others/berry/cache/postcss-loader-npm-6.2.1-45828eb0de-9.zip/node_modules/postcss-loader/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:7.0.1", {\
+        "packageLocation": "./.yarn/__virtual__/postcss-loader-virtual-21e7a6910b/6/tmp/renovate-cache/others/berry/cache/postcss-loader-npm-7.0.1-444ecd58b4-9.zip/node_modules/postcss-loader/",\
         "packageDependencies": [\
-          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.2.1"],\
+          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:7.0.1"],\
           ["@types/postcss", null],\
           ["@types/webpack", null],\
           ["cosmiconfig", "npm:7.0.1"],\
@@ -9524,7 +9524,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.16"],\
           ["postcss-import", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.1.0"],\
           ["postcss-load-config", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.4"],\
-          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.2.1"],\
+          ["postcss-loader", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:7.0.1"],\
           ["postcss-nested", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.0.6"],\
           ["prettier", "npm:2.7.1"],\
           ["react", "npm:18.2.0"],\
