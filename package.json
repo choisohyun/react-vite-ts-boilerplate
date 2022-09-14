@@ -62,7 +62,7 @@
     "jsdom": "19.0.0",
     "lint-staged": "12.5.0",
     "postcss": "8.4.16",
-    "postcss-import": "14.1.0",
+    "postcss-import": "15.0.0",
     "postcss-load-config": "4.0.1",
     "postcss-loader": "7.0.1",
     "postcss-nested": "5.0.6",

@@ -7394,16 +7394,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-import@npm:14.1.0":
-  version: 14.1.0
-  resolution: "postcss-import@npm:14.1.0"
+"postcss-import@npm:15.0.0":
+  version: 15.0.0
+  resolution: "postcss-import@npm:15.0.0"
   dependencies:
     postcss-value-parser: "npm:^4.0.0"
     read-cache: "npm:^1.0.0"
     resolve: "npm:^1.1.7"
   peerDependencies:
     postcss: ^8.0.0
-  checksum: 28f4fd918ad819b77c5585c3211439a50b4c1005b33640e2183790e7501fb5257b0aa3dcef54c546deba713dc1a05fd42651483e4d1defae4dd840f4e3e34b71
+  checksum: 922ab3be31ff906b5723b0055a5f30e4ab969b5bbc6f87806e360a362ebe2499c9a947330cf9bf8027b4c4d3ebd48f03b4598939ff2987a14b6832c086388a4d
   languageName: node
   linkType: hard
 
@@ -7983,7 +7983,7 @@ __metadata:
     jsdom: "npm:19.0.0"
     lint-staged: "npm:12.5.0"
     postcss: "npm:8.4.16"
-    postcss-import: "npm:14.1.0"
+    postcss-import: "npm:15.0.0"
     postcss-load-config: "npm:4.0.1"
     postcss-loader: "npm:7.0.1"
     postcss-nested: "npm:5.0.6"
