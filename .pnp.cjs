@@ -50,7 +50,7 @@ const RAW_RUNTIME_STATE =
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.13"],\
           ["eslint", "npm:7.32.0"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
-          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.0.0"],\
+          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
           ["husky", "npm:4.3.8"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:19.0.0"],\
           ["lint-staged", "npm:12.5.0"],\
@@ -4849,17 +4849,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-plugin-prettier", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/eslint-plugin-prettier-npm-4.0.0-e632552861-9.zip/node_modules/eslint-plugin-prettier/",\
+      ["npm:4.2.1", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/eslint-plugin-prettier-npm-4.2.1-ba8e1240f1-9.zip/node_modules/eslint-plugin-prettier/",\
         "packageDependencies": [\
-          ["eslint-plugin-prettier", "npm:4.0.0"]\
+          ["eslint-plugin-prettier", "npm:4.2.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-plugin-prettier-virtual-97d1b6087d/6/tmp/renovate-cache/others/berry/cache/eslint-plugin-prettier-npm-4.0.0-e632552861-9.zip/node_modules/eslint-plugin-prettier/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-prettier-virtual-617c71294c/6/tmp/renovate-cache/others/berry/cache/eslint-plugin-prettier-npm-4.2.1-ba8e1240f1-9.zip/node_modules/eslint-plugin-prettier/",\
         "packageDependencies": [\
-          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.0.0"],\
+          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
           ["@types/eslint", null],\
           ["@types/eslint-config-prettier", null],\
           ["@types/prettier", null],\
@@ -9508,7 +9508,7 @@ const RAW_RUNTIME_STATE =
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.13"],\
           ["eslint", "npm:7.32.0"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
-          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.0.0"],\
+          ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
           ["husky", "npm:4.3.8"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:19.0.0"],\
           ["lint-staged", "npm:12.5.0"],\
