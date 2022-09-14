@@ -1516,7 +1516,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:^4.3.1":
+"@types/chai@npm:^4.3.3":
   version: 4.3.3
   resolution: "@types/chai@npm:4.3.3"
   checksum: 9cab9c83b4c5c858a7b411086652ad6c1920662a7dbc94c8352db48cb0f8fd3f17d1a21a982ed4cd0aba0041ff7a002f684f3cbd80a5cfa7155236bd59d183d9
@@ -1882,6 +1882,15 @@ __metadata:
   bin:
     acorn: bin/acorn
   checksum: eba988701205b33f99d879e767a08c31b53a13f2594fffcb870430561933fc2f8b8ae3efe6f956cab37df68963bb593d0590ed9a9fbd64f233194f95c045aa60
+  languageName: node
+  linkType: hard
+
+"acorn@npm:^8.8.0":
+  version: 8.8.0
+  resolution: "acorn@npm:8.8.0"
+  bin:
+    acorn: bin/acorn
+  checksum: 15b10fb381a8a0394a718eba147e120b9d1ae6ed087e61612ee5fda94f98182e5fcd78ef6725c027dc3c5677ce920617c14c359d7777e8ef6a058d2ba113f81f
   languageName: node
   linkType: hard
 
@@ -8080,7 +8089,7 @@ __metadata:
     vite-plugin-checker: "npm:0.4.9"
     vite-plugin-html: "npm:3.2.0"
     vite-tsconfig-paths: "npm:3.5.0"
-    vitest: "npm:0.21.0"
+    vitest: "npm:0.23.2"
   bin:
     react-vite-ts-boilerplate: ./bin/react-vite-ts-boilerplate.js
   languageName: unknown
@@ -9008,6 +9017,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"strip-literal@npm:^0.4.0":
+  version: 0.4.1
+  resolution: "strip-literal@npm:0.4.1"
+  dependencies:
+    acorn: "npm:^8.8.0"
+  checksum: f1266805dfa6051d7062bf1876379a82027cd46bd53fa993cda31dcf59a8b6a47601506927ba1e7c6d34c1bb0e3be76b246e011d2c70ad7e5407ade5841cf1fa
+  languageName: node
+  linkType: hard
+
 "stylehacks@npm:^5.1.0":
   version: 5.1.0
   resolution: "stylehacks@npm:5.1.0"
@@ -9205,17 +9223,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tinypool@npm:^0.2.4":
-  version: 0.2.4
-  resolution: "tinypool@npm:0.2.4"
-  checksum: 604b22c714a84162f710ac4ed950d18e5161d194777ef45d90611cabc8fb59acccd28de7f78d98e00568fdeb9c41c6f96756e53cf19f3a5e37ff26b80a6edfb2
+"tinybench@npm:^2.1.5":
+  version: 2.1.5
+  resolution: "tinybench@npm:2.1.5"
+  checksum: c74e63ca01615305b3cd6e2ac4903287ebec3c4c2b8ed33bf07a61e9e4fbdf8596341c285431538b49df499a99e720bf4b007e3e26ca69bc3d93f8a0a1f71b8f
   languageName: node
   linkType: hard
 
-"tinyspy@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "tinyspy@npm:1.0.0"
-  checksum: 01317a2859bd94f6a58f7c524b532789812e16c8fbc9847187cac22a48bd960f7d2846252e57af10070fd67fe4fa26a78ed4b60a487224457d91f29a018dc972
+"tinypool@npm:^0.3.0":
+  version: 0.3.0
+  resolution: "tinypool@npm:0.3.0"
+  checksum: ff72e9f9c180315f21eb45fd59a2ac59940b5e7fc674352bd684bf46c47cc590340894c5a4b143e066408d8b3ef67443366bfe7d320473d346d46969f7b5f73d
+  languageName: node
+  linkType: hard
+
+"tinyspy@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "tinyspy@npm:1.0.2"
+  checksum: ee528f34ff63b3209881233401d1048b69565f917772d4f899b814a2a700be1039047c3149e98a6d6a64b94055defd46256025b205969d4059c61c4ad22697c4
   languageName: node
   linkType: hard
 
@@ -9744,24 +9769,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitest@npm:0.21.0":
-  version: 0.21.0
-  resolution: "vitest@npm:0.21.0"
+"vitest@npm:0.23.2":
+  version: 0.23.2
+  resolution: "vitest@npm:0.23.2"
   dependencies:
-    "@types/chai": "npm:^4.3.1"
+    "@types/chai": "npm:^4.3.3"
     "@types/chai-subset": "npm:^1.3.3"
     "@types/node": "npm:*"
     chai: "npm:^4.3.6"
     debug: "npm:^4.3.4"
     local-pkg: "npm:^0.4.2"
-    tinypool: "npm:^0.2.4"
-    tinyspy: "npm:^1.0.0"
+    strip-literal: "npm:^0.4.0"
+    tinybench: "npm:^2.1.5"
+    tinypool: "npm:^0.3.0"
+    tinyspy: "npm:^1.0.2"
     vite: "npm:^2.9.12 || ^3.0.0-0"
   peerDependencies:
     "@edge-runtime/vm": "*"
     "@vitest/browser": "*"
     "@vitest/ui": "*"
-    c8: "*"
     happy-dom: "*"
     jsdom: "*"
   peerDependenciesMeta:
@@ -9771,15 +9797,13 @@ __metadata:
       optional: true
     "@vitest/ui":
       optional: true
-    c8:
-      optional: true
     happy-dom:
       optional: true
     jsdom:
       optional: true
   bin:
     vitest: vitest.mjs
-  checksum: 4c9b0ffda9487ec9b23a284d2d3ce5c7aea0fbfb36fda3c719cdf934f54bd69ccc5d0eb8f12bc30b146406ee106c645eea2d0674864e3a0e9ef139a8a58567f5
+  checksum: 5c3a489e963dc410d88675aca332bc0ad1b3457902607549a310f76310c4b105cf8b370291228931cfe45bad019b3259889bd0ab0dec2ee85a507d4c98e8c5f0
   languageName: node
   linkType: hard
 
