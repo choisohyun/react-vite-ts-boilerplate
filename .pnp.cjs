@@ -51,7 +51,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:7.32.0"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:4.3.8"],\
+          ["husky", "npm:8.0.1"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:19.0.0"],\
           ["lint-staged", "npm:13.0.3"],\
           ["postcss", "npm:8.4.16"],\
@@ -3209,13 +3209,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ci-info", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/ci-info-npm-2.0.0-78012236a1-9.zip/node_modules/ci-info/",\
-        "packageDependencies": [\
-          ["ci-info", "npm:2.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.4.0", {\
         "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/ci-info-npm-3.4.0-f81991d948-9.zip/node_modules/ci-info/",\
         "packageDependencies": [\
@@ -3464,15 +3457,6 @@ const RAW_RUNTIME_STATE =
           ["compare-func", "npm:2.0.0"],\
           ["array-ify", "npm:1.0.0"],\
           ["dot-prop", "npm:5.3.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["compare-versions", [\
-      ["npm:3.6.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/compare-versions-npm-3.6.0-0bb57ed638-9.zip/node_modules/compare-versions/",\
-        "packageDependencies": [\
-          ["compare-versions", "npm:3.6.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6016,20 +6000,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:4.3.8", {\
-        "packageLocation": "./.yarn/unplugged/husky-npm-4.3.8-f7cd00e56d/node_modules/husky/",\
+      ["npm:8.0.1", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/husky-npm-8.0.1-85fede8470-9.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:4.3.8"],\
-          ["chalk", "npm:4.1.2"],\
-          ["ci-info", "npm:2.0.0"],\
-          ["compare-versions", "npm:3.6.0"],\
-          ["cosmiconfig", "npm:7.0.1"],\
-          ["find-versions", "npm:4.0.0"],\
-          ["opencollective-postinstall", "npm:2.0.3"],\
-          ["pkg-dir", "npm:5.0.0"],\
-          ["please-upgrade-node", "npm:3.2.0"],\
-          ["slash", "npm:3.0.0"],\
-          ["which-pm-runs", "npm:1.1.0"]\
+          ["husky", "npm:8.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -8174,15 +8148,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["opencollective-postinstall", [\
-      ["npm:2.0.3", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/opencollective-postinstall-npm-2.0.3-954643c36b-9.zip/node_modules/opencollective-postinstall/",\
-        "packageDependencies": [\
-          ["opencollective-postinstall", "npm:2.0.3"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["opener", [\
       ["npm:1.5.2", {\
         "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/opener-npm-1.5.2-7a1aa69f14-9.zip/node_modules/opener/",\
@@ -8601,26 +8566,6 @@ const RAW_RUNTIME_STATE =
           ["pkg-conf", "npm:2.1.0"],\
           ["find-up", "npm:2.1.0"],\
           ["load-json-file", "npm:4.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["pkg-dir", [\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/pkg-dir-npm-5.0.0-3ba6768b42-9.zip/node_modules/pkg-dir/",\
-        "packageDependencies": [\
-          ["pkg-dir", "npm:5.0.0"],\
-          ["find-up", "npm:5.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["please-upgrade-node", [\
-      ["npm:3.2.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/please-upgrade-node-npm-3.2.0-3f653350ed-9.zip/node_modules/please-upgrade-node/",\
-        "packageDependencies": [\
-          ["please-upgrade-node", "npm:3.2.0"],\
-          ["semver-compare", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -9770,7 +9715,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:7.32.0"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:4.3.8"],\
+          ["husky", "npm:8.0.1"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:19.0.0"],\
           ["lint-staged", "npm:13.0.3"],\
           ["postcss", "npm:8.4.16"],\
@@ -10289,15 +10234,6 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["semver", "npm:7.3.7"],\
           ["lru-cache", "npm:6.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["semver-compare", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/semver-compare-npm-1.0.0-33f7033df0-9.zip/node_modules/semver-compare/",\
-        "packageDependencies": [\
-          ["semver-compare", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11928,15 +11864,6 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["which", "npm:2.0.2"],\
           ["isexe", "npm:2.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["which-pm-runs", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/which-pm-runs-npm-1.1.0-1a7fd7650e-9.zip/node_modules/which-pm-runs/",\
-        "packageDependencies": [\
-          ["which-pm-runs", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
