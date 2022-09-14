@@ -7186,12 +7186,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-load-config@npm:3.1.4":
-  version: 3.1.4
-  resolution: "postcss-load-config@npm:3.1.4"
+"postcss-load-config@npm:4.0.1":
+  version: 4.0.1
+  resolution: "postcss-load-config@npm:4.0.1"
   dependencies:
     lilconfig: "npm:^2.0.5"
-    yaml: "npm:^1.10.2"
+    yaml: "npm:^2.1.1"
   peerDependencies:
     postcss: ">=8.0.9"
     ts-node: ">=9.0.0"
@@ -7200,7 +7200,7 @@ __metadata:
       optional: true
     ts-node:
       optional: true
-  checksum: a552c5f838b4f2964898674bb565b03dcb285ea17d2977c791fff9b179b7b444bc97058f83ba644080001ae29fd2d35c535e6f4becd47afe76884f4aa9eed86f
+  checksum: 140d83311c39661ec16cc106bc2c8bcc34f0e67bf4f10206d7eeb43e04b70e1edfedab23163ab6cd7fb7ef8f1001b73e5c8098fbae279bbbf27b0d95bf2d7911
   languageName: node
   linkType: hard
 
@@ -7763,7 +7763,7 @@ __metadata:
     lint-staged: "npm:12.5.0"
     postcss: "npm:8.4.16"
     postcss-import: "npm:14.1.0"
-    postcss-load-config: "npm:3.1.4"
+    postcss-load-config: "npm:4.0.1"
     postcss-loader: "npm:7.0.1"
     postcss-nested: "npm:5.0.6"
     prettier: "npm:2.7.1"
@@ -9743,6 +9743,13 @@ __metadata:
   version: 1.10.2
   resolution: "yaml@npm:1.10.2"
   checksum: d6f04384bdf1105256581aef39991f825e358f3f48f081974b0e0f39ff5240c60ccafb5842cb79d1287517efa2b9ee172c702f2e4855ba6cc46948b40a43aa6e
+  languageName: node
+  linkType: hard
+
+"yaml@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "yaml@npm:2.1.1"
+  checksum: 550ea265eeb88a057f230337f88ce1459563ce749ff574c282a9ca98178394be1d6f47b6edb721523512d8c45e3cd004ff9ea93a1ddeb20c7c658a63ee4ca9b5
   languageName: node
   linkType: hard
 
