@@ -2181,9 +2181,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.4.10":
-  version: 10.4.10
-  resolution: "autoprefixer@npm:10.4.10"
+"autoprefixer@npm:10.4.11":
+  version: 10.4.11
+  resolution: "autoprefixer@npm:10.4.11"
   dependencies:
     browserslist: "npm:^4.21.3"
     caniuse-lite: "npm:^1.0.30001399"
@@ -2195,7 +2195,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: a2538cddfd836610b3037b316c1d8e643af525c7d8908ff0bddecbb88c8c2c3379a3f283d551cbad0ec5dcbc991a9ddb6de8608f57ae159050fae89e7f616c95
+  checksum: e893bb48348916d33ec84b3fe5565b58f82760e402fd38da6dfd26f6b2b7fe271e49092a8bbbb1bb242fb9ae7dab6be6b9a85ae3ea53b8b449ad47ad74ce2546
   languageName: node
   linkType: hard
 
@@ -8013,7 +8013,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:5.37.0"
     "@vitejs/plugin-react": "npm:2.1.0"
     "@vitest/ui": "npm:0.23.2"
-    autoprefixer: "npm:10.4.10"
+    autoprefixer: "npm:10.4.11"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.12.0"
     core-js: "npm:3.25.1"
