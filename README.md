@@ -6,7 +6,7 @@
 
 </p>
 
-
+[![Github Downloads](https://img.shields.io/npm/dt/react-vite-ts-boilerplate)](https://www.npmjs.com/package/react-vite-ts-boilerplate)
 [![npm version](https://badge.fury.io/js/react-vite-ts-boilerplate.svg)](https://www.npmjs.com/package/react-vite-ts-boilerplate)
 
 ## Getting started
