@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.1"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
-          ["@testing-library/dom", "npm:8.17.1"],\
+          ["@testing-library/dom", "npm:8.19.0"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
@@ -1799,10 +1799,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.17.1", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@testing-library-dom-npm-8.17.1-4b272de377-9.zip/node_modules/@testing-library/dom/",\
+      ["npm:8.19.0", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@testing-library-dom-npm-8.19.0-1ae6733a53-9.zip/node_modules/@testing-library/dom/",\
         "packageDependencies": [\
-          ["@testing-library/dom", "npm:8.17.1"],\
+          ["@testing-library/dom", "npm:8.19.0"],\
           ["@babel/code-frame", "npm:7.16.7"],\
           ["@babel/runtime", "npm:7.18.3"],\
           ["@types/aria-query", "npm:4.2.2"],\
@@ -1887,7 +1887,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@testing-library-user-event-virtual-051540d890/6/tmp/renovate-cache/others/berry/cache/@testing-library-user-event-npm-14.4.3-2d1a75355f-9.zip/node_modules/@testing-library/user-event/",\
         "packageDependencies": [\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
-          ["@testing-library/dom", "npm:8.17.1"],\
+          ["@testing-library/dom", "npm:8.19.0"],\
           ["@types/testing-library__dom", null]\
         ],\
         "packagePeers": [\
@@ -9717,7 +9717,7 @@ const RAW_RUNTIME_STATE =
           ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.1"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
-          ["@testing-library/dom", "npm:8.17.1"],\
+          ["@testing-library/dom", "npm:8.19.0"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
