@@ -2197,12 +2197,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.4.11":
-  version: 10.4.11
-  resolution: "autoprefixer@npm:10.4.11"
+"autoprefixer@npm:10.4.13":
+  version: 10.4.13
+  resolution: "autoprefixer@npm:10.4.13"
   dependencies:
-    browserslist: "npm:^4.21.3"
-    caniuse-lite: "npm:^1.0.30001399"
+    browserslist: "npm:^4.21.4"
+    caniuse-lite: "npm:^1.0.30001426"
     fraction.js: "npm:^4.2.0"
     normalize-range: "npm:^0.1.2"
     picocolors: "npm:^1.0.0"
@@ -2211,7 +2211,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: e893bb48348916d33ec84b3fe5565b58f82760e402fd38da6dfd26f6b2b7fe271e49092a8bbbb1bb242fb9ae7dab6be6b9a85ae3ea53b8b449ad47ad74ce2546
+  checksum: ff6ad06d8312eccf7da2d82ad00489ea83fb10895fd7053245722e0125cf8010256450499a1265ba17b2f5e970ebdc7d87a6db8c9993a1181935ef61308df348
   languageName: node
   linkType: hard
 
@@ -2334,17 +2334,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.21.3":
-  version: 4.21.3
-  resolution: "browserslist@npm:4.21.3"
+"browserslist@npm:^4.21.4":
+  version: 4.21.4
+  resolution: "browserslist@npm:4.21.4"
   dependencies:
-    caniuse-lite: "npm:^1.0.30001370"
-    electron-to-chromium: "npm:^1.4.202"
+    caniuse-lite: "npm:^1.0.30001400"
+    electron-to-chromium: "npm:^1.4.251"
     node-releases: "npm:^2.0.6"
-    update-browserslist-db: "npm:^1.0.5"
+    update-browserslist-db: "npm:^1.0.9"
   bin:
     browserslist: cli.js
-  checksum: 1c12b4b9b69138e1697aee58ad8b7e706fc868a90c03f9973ad8cf2bc5b283ccda07b4e7e751b7301b6df4726a41c6e8a9245e18ab3b11e0e4bc2cbfaeabaff3
+  checksum: a8fa463b17e7bfcc2bbcdd6036718a4663629d5fd4ad73f50ca45d10965c5cecc5953f6f007f1421888d84e5def3d6b027ad2c1b4776f93db6c49950059e5759
   languageName: node
   linkType: hard
 
@@ -2466,10 +2466,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.30001370, caniuse-lite@npm:^1.0.30001399":
-  version: 1.0.30001399
-  resolution: "caniuse-lite@npm:1.0.30001399"
-  checksum: 3bef74244edad4ceb75e4ed59b280185672667743e65306b5e00b42394e2d4beb2493085594553044232c8674ad9198cf9c6aa1956067a74ce0e47477d07ebf4
+"caniuse-lite@npm:^1.0.30001400, caniuse-lite@npm:^1.0.30001426":
+  version: 1.0.30001426
+  resolution: "caniuse-lite@npm:1.0.30001426"
+  checksum: 1425c89a1c464aa51e3ee3bbbb9a75540b848f30d54be3dab54d39942e45242b9123ec988a0772cac2dd1977ec2e0dd4226c3e7d32ba5b4a07e513c715c82d23
   languageName: node
   linkType: hard
 
@@ -3611,10 +3611,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-to-chromium@npm:^1.4.202":
-  version: 1.4.248
-  resolution: "electron-to-chromium@npm:1.4.248"
-  checksum: a6a6b52e4bcd2cc246745b0fcb35a45913204bc4efff1a3fe9ddb1150f808f6cc42e612e6db48832d1038d42678de7a6f71b69a09d6b1c99d42303912fc07e60
+"electron-to-chromium@npm:^1.4.251":
+  version: 1.4.284
+  resolution: "electron-to-chromium@npm:1.4.284"
+  checksum: 39dac53e9df6e661495a795acc318fbd2780eb685d0b1383ab4047d69cebc7b77ad2adfa3d45106c5e58f915f707701d0b4f6847a94ef96e7f42793df9020433
   languageName: node
   linkType: hard
 
@@ -8043,7 +8043,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:5.43.0"
     "@vitejs/plugin-react": "npm:2.1.0"
     "@vitest/ui": "npm:0.23.2"
-    autoprefixer: "npm:10.4.11"
+    autoprefixer: "npm:10.4.13"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.12.0"
     core-js: "npm:3.25.1"
@@ -9516,9 +9516,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"update-browserslist-db@npm:^1.0.5":
-  version: 1.0.9
-  resolution: "update-browserslist-db@npm:1.0.9"
+"update-browserslist-db@npm:^1.0.9":
+  version: 1.0.10
+  resolution: "update-browserslist-db@npm:1.0.10"
   dependencies:
     escalade: "npm:^3.1.1"
     picocolors: "npm:^1.0.0"
@@ -9526,7 +9526,7 @@ __metadata:
     browserslist: ">= 4.21.0"
   bin:
     browserslist-lint: cli.js
-  checksum: a418012808712ee969f21b5b36fb971d8fe510c333b984dfd02c46c4548b0d4dc9c4e605b420ea77823daebe414ae55a99cb1f56183b799413e23ca5ea204d85
+  checksum: e55ee7f0562821e40808b5f265e4dfbc1436cdddd4c436dfe73ae4e71215302907d4b430807d45fabbb4c23aa2d67757f26dbd8f93fc9718f814566536b386d0
   languageName: node
   linkType: hard
 
