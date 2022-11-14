@@ -35,7 +35,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
-          ["@types/jest", "npm:29.0.2"],\
+          ["@types/jest", "npm:29.2.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.20"],\
           ["@types/react-dom", "npm:18.0.6"],\
@@ -2007,10 +2007,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/jest", [\
-      ["npm:29.0.2", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-jest-npm-29.0.2-633da80e03-9.zip/node_modules/@types/jest/",\
+      ["npm:29.2.3", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-jest-npm-29.2.3-717f400a5c-9.zip/node_modules/@types/jest/",\
         "packageDependencies": [\
-          ["@types/jest", "npm:29.0.2"],\
+          ["@types/jest", "npm:29.2.3"],\
           ["expect", "npm:29.0.3"],\
           ["pretty-format", "npm:29.0.3"]\
         ],\
@@ -9690,7 +9690,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.4.3"],\
-          ["@types/jest", "npm:29.0.2"],\
+          ["@types/jest", "npm:29.2.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.20"],\
           ["@types/react-dom", "npm:18.0.6"],\
