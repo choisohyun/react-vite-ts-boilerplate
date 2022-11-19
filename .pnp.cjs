@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:29.2.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.25"],\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.43.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.43.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.1.0"],\
@@ -1830,7 +1830,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/runtime", "npm:7.18.3"],\
           ["@testing-library/dom", "npm:8.16.1"],\
           ["@types/react", "npm:18.0.25"],\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"]\
         ],\
@@ -1857,7 +1857,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@babel/runtime", "npm:7.18.3"],\
           ["@types/react", "npm:18.0.25"],\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["@types/react-test-renderer", null],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"],\
@@ -2117,10 +2117,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/react-dom", [\
-      ["npm:18.0.6", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-react-dom-npm-18.0.6-55949dcf84-9.zip/node_modules/@types/react-dom/",\
+      ["npm:18.0.9", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/@types-react-dom-npm-18.0.9-e52458db76-9.zip/node_modules/@types/react-dom/",\
         "packageDependencies": [\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["@types/react", "npm:18.0.14"]\
         ],\
         "linkType": "HARD"\
@@ -9685,7 +9685,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.4.0"],\
           ["@types/react", "npm:18.0.25"],\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.2.0"],\
           ["react-router", "virtual:44d5cc0285501055a3c7d3cb904b9c6b00800e39b29ecf9ac4ae306f4f6dc8732cce3184b08586f0ea2afa051b991bbd28fd78d35cc845f24e0f4355c917d744#npm:6.4.0"]\
@@ -9716,7 +9716,7 @@ const RAW_RUNTIME_STATE =
           ["@types/jest", "npm:29.2.3"],\
           ["@types/node", "npm:18.0.0"],\
           ["@types/react", "npm:18.0.25"],\
-          ["@types/react-dom", "npm:18.0.6"],\
+          ["@types/react-dom", "npm:18.0.9"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.43.0"],\
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.43.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.1.0"],\
