@@ -51,7 +51,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.1"],\
+          ["husky", "npm:8.0.2"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.2"],\
           ["lint-staged", "npm:13.0.3"],\
           ["postcss", "npm:8.4.16"],\
@@ -6003,10 +6003,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:8.0.1", {\
-        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/husky-npm-8.0.1-85fede8470-9.zip/node_modules/husky/",\
+      ["npm:8.0.2", {\
+        "packageLocation": "../../../../../tmp/renovate-cache/others/berry/cache/husky-npm-8.0.2-46c70b41ed-9.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:8.0.1"]\
+          ["husky", "npm:8.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -9729,7 +9729,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.1"],\
+          ["husky", "npm:8.0.2"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.2"],\
           ["lint-staged", "npm:13.0.3"],\
           ["postcss", "npm:8.4.16"],\
