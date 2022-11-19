@@ -1226,10 +1226,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remix-run/router@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@remix-run/router@npm:1.0.0"
-  checksum: a43b25809f2cb9bbf19418f0e2f60b167f0ecec86754c9cdefdb82127f1f146462fe262f79d853127d1e2aa66e353acf5cb27476b365a5c4f0f6f18943bf6d77
+"@remix-run/router@npm:1.0.3":
+  version: 1.0.3
+  resolution: "@remix-run/router@npm:1.0.3"
+  checksum: bbeb972d758ac5c293aac8c3ccb68e6d93f4f15e67fb7e8128a0cc09c5f9cdf3f78824037900e58075f8f2497507393ccd8bedfe684be8c9d88463f62c5a48a4
   languageName: node
   linkType: hard
 
@@ -8000,26 +8000,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:6.4.0":
-  version: 6.4.0
-  resolution: "react-router-dom@npm:6.4.0"
+"react-router-dom@npm:6.4.3":
+  version: 6.4.3
+  resolution: "react-router-dom@npm:6.4.3"
   dependencies:
-    react-router: "npm:6.4.0"
+    "@remix-run/router": "npm:1.0.3"
+    react-router: "npm:6.4.3"
   peerDependencies:
     react: ">=16.8"
     react-dom: ">=16.8"
-  checksum: 5d9576c785e93a8f6f7a9890b24795eb00ec54ee8dc2b53822dc0e4108df31bfb937c0e950e02882e159fda15cad047bd3939222abe066843758f9579afbe49b
+  checksum: e25a8e16ea87cbf8304c468ed946db2a5e23b84c4c75f18e30bfae32bd00e4c96c733526124051163fca8ceaccf725bba2ac5080868db7f3749e2d01de648a53
   languageName: node
   linkType: hard
 
-"react-router@npm:6.4.0":
-  version: 6.4.0
-  resolution: "react-router@npm:6.4.0"
+"react-router@npm:6.4.3":
+  version: 6.4.3
+  resolution: "react-router@npm:6.4.3"
   dependencies:
-    "@remix-run/router": "npm:1.0.0"
+    "@remix-run/router": "npm:1.0.3"
   peerDependencies:
     react: ">=16.8"
-  checksum: 51db516722767adea584b24b967c6744f423f7e0885930fb0d9ce4eb0ae722757e7b19c7d842a084806653e5dcb51f14d7e198db3f450f10eecbf1184a36373c
+  checksum: 1e1b962b02189d17eaaf5470649a6acb75b97298e99a8df530b753f28f2e64939746060e829f66c2538607b1477172734f46ebcbb8dcaf6a05eb8f53a8a60dd8
   languageName: node
   linkType: hard
 
@@ -8063,7 +8064,7 @@ __metadata:
     prettier: "npm:2.7.1"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
-    react-router-dom: "npm:6.4.0"
+    react-router-dom: "npm:6.4.3"
     sass: "npm:1.54.9"
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
