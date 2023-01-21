@@ -1233,14 +1233,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/plugin-alias@npm:3.1.9":
-  version: 3.1.9
-  resolution: "@rollup/plugin-alias@npm:3.1.9"
+"@rollup/plugin-alias@npm:4.0.3":
+  version: 4.0.3
+  resolution: "@rollup/plugin-alias@npm:4.0.3"
   dependencies:
-    slash: "npm:^3.0.0"
+    slash: "npm:^4.0.0"
   peerDependencies:
-    rollup: ^1.20.0||^2.0.0
-  checksum: 24e94cf379326168cee035f17f4fa7296daa4705ae84724e61bf8e74c88d1724a168b63c2a707108b7c22ced529ffc3f91d069e0f46de4baaf96bdd14fa8eeb8
+    rollup: ^1.20.0||^2.0.0||^3.0.0
+  peerDependenciesMeta:
+    rollup:
+      optional: true
+  checksum: f20a85a68f62feafd185fb3c6f503ff2e4b141a48fe28c42121889172dca5773ee572e0e355cb86f37723885687511e25284c6d8b0822a2d3baf3225ae6c7853
   languageName: node
   linkType: hard
 
@@ -8030,7 +8033,7 @@ __metadata:
   dependencies:
     "@commitlint/cli": "npm:17.1.2"
     "@commitlint/config-conventional": "npm:17.1.0"
-    "@rollup/plugin-alias": "npm:3.1.9"
+    "@rollup/plugin-alias": "npm:4.0.3"
     "@semantic-release/changelog": "npm:6.0.1"
     "@semantic-release/git": "npm:10.0.1"
     "@testing-library/dom": "npm:8.19.0"
@@ -8657,6 +8660,13 @@ __metadata:
   version: 3.0.0
   resolution: "slash@npm:3.0.0"
   checksum: b88a0f1086e3cd20c8b61f50d8afff5fba83f95167a86432f54387565c9424e5d1970612371f768c128ed4b5b1c427120382bafc8c9edf0b3737eb226b733687
+  languageName: node
+  linkType: hard
+
+"slash@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "slash@npm:4.0.0"
+  checksum: 0327fcda20ceb59983f59b6016ecc1d8a0c750a66af0205cdb0d0b92b857586c847515d3098a7538816c61a145d3822aec5509b0fe5c9ccff14789e0603c8ea1
   languageName: node
   linkType: hard
 
