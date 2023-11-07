@@ -1623,10 +1623,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.0.0":
-  version: 18.0.0
-  resolution: "@types/node@npm:18.0.0"
-  checksum: 5d902615a9732fe86ff71edc04b6d35599b447a6fe3b572b12ea002a3460572f8e4d8990bf3983c2890e2335ea8625b78bc51ab542df492ef12e6dcd0da0865a
+"@types/node@npm:18.18.9":
+  version: 18.18.9
+  resolution: "@types/node@npm:18.18.9"
+  dependencies:
+    undici-types: "npm:~5.26.4"
+  checksum: a650a17b46bd83e0caa15fb733969f183df3e23ad4378443076f7dc8be2fa61c85dc98be9afff73d5c383dbae464bd8d2c14e9afa3761625dae1a232c0e541dc
   languageName: node
   linkType: hard
 
@@ -8063,7 +8065,7 @@ __metadata:
     "@testing-library/react-hooks": "npm:8.0.1"
     "@testing-library/user-event": "npm:14.4.3"
     "@types/jest": "npm:29.2.3"
-    "@types/node": "npm:18.0.0"
+    "@types/node": "npm:18.18.9"
     "@types/react": "npm:18.0.25"
     "@types/react-dom": "npm:18.0.9"
     "@typescript-eslint/eslint-plugin": "npm:5.43.0"
@@ -9486,6 +9488,13 @@ __metadata:
   bin:
     uglifyjs: bin/uglifyjs
   checksum: fedc0742e08386717fe8e67c267016d56c7a66476993ee8877952cf70b91a8993aef842cbdb87636e8d58abf573d21d2c7c386a83216c1c6ca07e636cccb55bc
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~5.26.4":
+  version: 5.26.5
+  resolution: "undici-types@npm:5.26.5"
+  checksum: 7f556493e22e9023f1f9be0d516f5c3cf74d1d6a090c2701ada5117e99900e8cdf8b5540ad3ceed1a672d3532bdfcd0149c444b980731aacc840eb0660ba8587
   languageName: node
   linkType: hard
 
