@@ -61,7 +61,7 @@
     "husky": "8.0.3",
     "jsdom": "20.0.3",
     "lint-staged": "13.0.3",
-    "postcss": "8.4.16",
+    "postcss": "8.4.31",
     "postcss-import": "15.0.0",
     "postcss-load-config": "4.0.1",
     "postcss-loader": "7.0.1",
