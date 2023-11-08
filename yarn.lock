@@ -1279,17 +1279,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/changelog@npm:6.0.1":
-  version: 6.0.1
-  resolution: "@semantic-release/changelog@npm:6.0.1"
+"@semantic-release/changelog@npm:6.0.3":
+  version: 6.0.3
+  resolution: "@semantic-release/changelog@npm:6.0.3"
   dependencies:
     "@semantic-release/error": "npm:^3.0.0"
     aggregate-error: "npm:^3.0.0"
-    fs-extra: "npm:^9.0.0"
+    fs-extra: "npm:^11.0.0"
     lodash: "npm:^4.17.4"
   peerDependencies:
     semantic-release: ">=18.0.0"
-  checksum: eedf647c044440d079396cc55a0d9331a87af9c86da803a43f4c4b3bdd278428edf28269f7f8e04e635915ada89dbc2727458d9861c54bc6489a746e062d96c6
+  checksum: f8ec750084fc21879da43ba8f6b709ad0ba7a8180c2edeb8a3db4f3e589915a882153c94bf5f8de55a4d1e7c92dff32f65db50806514bd3fa42e9c3a50c1394c
   languageName: node
   linkType: hard
 
@@ -2216,13 +2216,6 @@ __metadata:
   version: 0.4.0
   resolution: "asynckit@npm:0.4.0"
   checksum: e4d1381289f9effe69a4dbc18e8b4e2059113dfb23634d0f4064226042870dbc53175fbf261f982d055fa2952163a8b7608781ea58314a17bb6a2cd6815af4f1
-  languageName: node
-  linkType: hard
-
-"at-least-node@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "at-least-node@npm:1.0.0"
-  checksum: fed1be4307a3752f3a863a6e0219c58fe6838ee95c77ecafffd2a72bbfe4ff33695777e4bffe2a095ef5671c638b803a55e0d39a728c7b0afa9adaa5900444bd
   languageName: node
   linkType: hard
 
@@ -4645,15 +4638,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fs-extra@npm:^9.0.0":
-  version: 9.1.0
-  resolution: "fs-extra@npm:9.1.0"
+"fs-extra@npm:^11.0.0":
+  version: 11.1.1
+  resolution: "fs-extra@npm:11.1.1"
   dependencies:
-    at-least-node: "npm:^1.0.0"
     graceful-fs: "npm:^4.2.0"
     jsonfile: "npm:^6.0.1"
     universalify: "npm:^2.0.0"
-  checksum: fc8ff3111ca42a4a3118e63247b1ebe4fbe4abc6daed2d51414699efb5661a2b9aeeb1b9283cb63544011a50b8f59c315e53b06d9c1b38a7786be99f8e59dabb
+  checksum: 9bc3e5ce6860e97abf1fb408f1d716253e1bb16da36203b2ee3f71160e5ec1e7a9d2b9bae4c99a50598a250be6db0e3b17e8031ea7c498c24513857f48db5402
   languageName: node
   linkType: hard
 
@@ -8058,7 +8050,7 @@ __metadata:
     "@commitlint/cli": "npm:17.1.2"
     "@commitlint/config-conventional": "npm:17.1.0"
     "@rollup/plugin-alias": "npm:3.1.9"
-    "@semantic-release/changelog": "npm:6.0.1"
+    "@semantic-release/changelog": "npm:6.0.3"
     "@semantic-release/git": "npm:10.0.1"
     "@testing-library/dom": "npm:8.19.0"
     "@testing-library/react": "npm:13.4.0"
