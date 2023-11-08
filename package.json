@@ -93,5 +93,5 @@
       "eslint --fix"
     ]
   },
-  "packageManager": "yarn@4.0.0-rc.18"
+  "packageManager": "yarn@4.0.1"
 }
