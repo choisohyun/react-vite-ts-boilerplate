@@ -1969,6 +1969,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"acorn@npm:^8.8.1":
+  version: 8.11.2
+  resolution: "acorn@npm:8.11.2"
+  bin:
+    acorn: bin/acorn
+  checksum: dde6f6593572f3efc20362f7a8b03018d62cbbca9984f457ccb492eea0e729646d56698c593cf5e95f0519d83bb119711d92cad31f9a357192110313d99eea9e
+  languageName: node
+  linkType: hard
+
 "add-stream@npm:^1.0.0":
   version: 1.0.0
   resolution: "add-stream@npm:1.0.0"
@@ -3370,10 +3379,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"decimal.js@npm:^10.4.1":
-  version: 10.4.2
-  resolution: "decimal.js@npm:10.4.2"
-  checksum: 24f3c0b3a786c35d33e47afd7ff36e92e0fd3ce02c91dc95fa69a270e89982daa1be594f4d35eaf671b13b61b80f165c4c6091d4338eb2711c613c6c975c6a98
+"decimal.js@npm:^10.4.2":
+  version: 10.4.3
+  resolution: "decimal.js@npm:10.4.3"
+  checksum: 0fbf4c97adc9826a2f1cf2ae8be8cc00cca3f2b61643ee19f0dd8ee55f11385ed0111d77c8cd234e151c80da1454b20c8e61f0354e3b90b5bec3a72379359049
   languageName: node
   linkType: hard
 
@@ -5593,17 +5602,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsdom@npm:20.0.2":
-  version: 20.0.2
-  resolution: "jsdom@npm:20.0.2"
+"jsdom@npm:20.0.3":
+  version: 20.0.3
+  resolution: "jsdom@npm:20.0.3"
   dependencies:
     abab: "npm:^2.0.6"
-    acorn: "npm:^8.8.0"
+    acorn: "npm:^8.8.1"
     acorn-globals: "npm:^7.0.0"
     cssom: "npm:^0.5.0"
     cssstyle: "npm:^2.3.0"
     data-urls: "npm:^3.0.2"
-    decimal.js: "npm:^10.4.1"
+    decimal.js: "npm:^10.4.2"
     domexception: "npm:^4.0.0"
     escodegen: "npm:^2.0.0"
     form-data: "npm:^4.0.0"
@@ -5616,19 +5625,19 @@ __metadata:
     saxes: "npm:^6.0.0"
     symbol-tree: "npm:^3.2.4"
     tough-cookie: "npm:^4.1.2"
-    w3c-xmlserializer: "npm:^3.0.0"
+    w3c-xmlserializer: "npm:^4.0.0"
     webidl-conversions: "npm:^7.0.0"
     whatwg-encoding: "npm:^2.0.0"
     whatwg-mimetype: "npm:^3.0.0"
     whatwg-url: "npm:^11.0.0"
-    ws: "npm:^8.9.0"
+    ws: "npm:^8.11.0"
     xml-name-validator: "npm:^4.0.0"
   peerDependencies:
     canvas: ^2.5.0
   peerDependenciesMeta:
     canvas:
       optional: true
-  checksum: 115dcdd4c773f80c0dd82a15854d16f89e63ecf9969477bdda170dd49047ed32db8f6468b07ba9af41d5bcc4003b692deadaf7565726a1a89ce858d03d3e8c63
+  checksum: b02c74e982b075faa187e3e0e02582c1a3d9d001b010ae5df602a6d31fa952b75141f0e893085955d692b2fe72de1063a08d582db7e193baa8df198e58b7f5a3
   languageName: node
   linkType: hard
 
@@ -8108,7 +8117,7 @@ __metadata:
     eslint-config-prettier: "npm:8.5.0"
     eslint-plugin-prettier: "npm:4.2.1"
     husky: "npm:8.0.3"
-    jsdom: "npm:20.0.2"
+    jsdom: "npm:20.0.3"
     lint-staged: "npm:13.0.3"
     postcss: "npm:8.4.16"
     postcss-import: "npm:15.0.0"
@@ -9927,12 +9936,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"w3c-xmlserializer@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "w3c-xmlserializer@npm:3.0.0"
+"w3c-xmlserializer@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "w3c-xmlserializer@npm:4.0.0"
   dependencies:
     xml-name-validator: "npm:^4.0.0"
-  checksum: 5042d7d56be21e7a8ac1f6dc60a559967db5cb2cc59321138571a6425569e3f84c1c02dace1ffc569510ec3f4046d74f5b9ecb783f25e5ff89e558b3677fdb7b
+  checksum: 2d5fb277d3244f917ebd08f8ca0cd2f1f349921cefce99ab0581329afc497e2991c883be9aa063b9abe85a9890843c172da20fad88142cf317231ff02abdc7aa
   languageName: node
   linkType: hard
 
@@ -10075,18 +10084,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:^8.9.0":
-  version: 8.10.0
-  resolution: "ws@npm:8.10.0"
+"ws@npm:^8.11.0":
+  version: 8.14.2
+  resolution: "ws@npm:8.14.2"
   peerDependencies:
     bufferutil: ^4.0.1
-    utf-8-validate: ^5.0.2
+    utf-8-validate: ">=5.0.2"
   peerDependenciesMeta:
     bufferutil:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 29af9b14bfc76fd7df9f480173f6e6f24b04a305b648cd79792bfc0245ea53208fc1195e2f0bf2034a25d60bae25b8125e1b839b954d979989df966f9bd65f8f
+  checksum: 471d62cd5ebc7457fdea4a753d8a53860554ef45d8a7298ba02c5aad275a55e97613988e238410ba62f61f8c62075ce5a0011dbe66e19809725095af79e9aa3e
   languageName: node
   linkType: hard
 
