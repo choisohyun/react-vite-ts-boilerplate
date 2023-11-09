@@ -3170,10 +3170,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:3.26.1":
-  version: 3.26.1
-  resolution: "core-js@npm:3.26.1"
-  checksum: 82d36c6f54fc0349998fa7fc67d200ba272f1cd1674c6786dc17f9d259d6555fc05662044528eae73ad6e90f71d503ab5c060ad4745492ef804308209f9aec13
+"core-js@npm:3.33.2":
+  version: 3.33.2
+  resolution: "core-js@npm:3.33.2"
+  checksum: d6a56ad3e134846c805ce936788dd58cb51e861f173ed1f830979735d7865ea6f6a5a437076c36c8d8b842ba0384d052998f160774a8da7712f0f51df60167fe
   languageName: node
   linkType: hard
 
@@ -8630,7 +8630,7 @@ __metadata:
     autoprefixer: "npm:10.4.16"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.14.0"
-    core-js: "npm:3.26.1"
+    core-js: "npm:3.33.2"
     cssnano: "npm:5.1.15"
     eslint: "npm:8.23.1"
     eslint-config-prettier: "npm:8.5.0"
