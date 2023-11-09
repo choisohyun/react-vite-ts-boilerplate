@@ -45,7 +45,7 @@ const RAW_RUNTIME_STATE =
           ["@vitest/ui", "npm:0.23.2"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.16"],\
           ["babel-polyfill", "npm:6.26.0"],\
-          ["c8", "npm:7.12.0"],\
+          ["c8", "npm:7.14.0"],\
           ["core-js", "npm:3.26.1"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
@@ -3080,10 +3080,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["c8", [\
-      ["npm:7.12.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/c8-npm-7.12.0-c808cac509-10c0.zip/node_modules/c8/",\
+      ["npm:7.14.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/c8-npm-7.14.0-dbb87a3021-10c0.zip/node_modules/c8/",\
         "packageDependencies": [\
-          ["c8", "npm:7.12.0"],\
+          ["c8", "npm:7.14.0"],\
           ["@bcoe/v8-coverage", "npm:0.2.3"],\
           ["@istanbuljs/schema", "npm:0.1.3"],\
           ["find-up", "npm:5.0.0"],\
@@ -10355,7 +10355,7 @@ const RAW_RUNTIME_STATE =
           ["@vitest/ui", "npm:0.23.2"],\
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.16"],\
           ["babel-polyfill", "npm:6.26.0"],\
-          ["c8", "npm:7.12.0"],\
+          ["c8", "npm:7.14.0"],\
           ["core-js", "npm:3.26.1"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
