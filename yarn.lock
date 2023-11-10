@@ -4848,7 +4848,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fs-extra@npm:^11.0.0":
+"fs-extra@npm:^11.0.0, fs-extra@npm:^11.1.0":
   version: 11.1.1
   resolution: "fs-extra@npm:11.1.1"
   dependencies:
@@ -8661,7 +8661,7 @@ __metadata:
     standard-version: "npm:9.5.0"
     typescript: "npm:4.9.5"
     vite: "npm:3.2.7"
-    vite-plugin-checker: "npm:0.5.1"
+    vite-plugin-checker: "npm:0.6.2"
     vite-plugin-html: "npm:3.2.0"
     vite-tsconfig-paths: "npm:3.5.0"
     vitest: "npm:0.23.2"
@@ -9174,7 +9174,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:7.5.4, semver@npm:^7.3.8":
+"semver@npm:7.5.4, semver@npm:^7.3.8, semver@npm:^7.5.0":
   version: 7.5.4
   resolution: "semver@npm:7.5.4"
   dependencies:
@@ -10276,9 +10276,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-checker@npm:0.5.1":
-  version: 0.5.1
-  resolution: "vite-plugin-checker@npm:0.5.1"
+"vite-plugin-checker@npm:0.6.2":
+  version: 0.6.2
+  resolution: "vite-plugin-checker@npm:0.6.2"
   dependencies:
     "@babel/code-frame": "npm:^7.12.13"
     ansi-escapes: "npm:^4.3.0"
@@ -10286,9 +10286,11 @@ __metadata:
     chokidar: "npm:^3.5.1"
     commander: "npm:^8.0.0"
     fast-glob: "npm:^3.2.7"
+    fs-extra: "npm:^11.1.0"
     lodash.debounce: "npm:^4.0.8"
     lodash.pick: "npm:^4.4.0"
     npm-run-path: "npm:^4.0.1"
+    semver: "npm:^7.5.0"
     strip-ansi: "npm:^6.0.0"
     tiny-invariant: "npm:^1.1.0"
     vscode-languageclient: "npm:^7.0.0"
@@ -10297,12 +10299,22 @@ __metadata:
     vscode-uri: "npm:^3.0.2"
   peerDependencies:
     eslint: ">=7"
+    meow: ^9.0.0
+    optionator: ^0.9.1
+    stylelint: ">=13"
     typescript: "*"
-    vite: ^2.0.0 || ^3.0.0-0
+    vite: ">=2.0.0"
     vls: "*"
     vti: "*"
+    vue-tsc: ">=1.3.9"
   peerDependenciesMeta:
     eslint:
+      optional: true
+    meow:
+      optional: true
+    optionator:
+      optional: true
+    stylelint:
       optional: true
     typescript:
       optional: true
@@ -10310,7 +10322,9 @@ __metadata:
       optional: true
     vti:
       optional: true
-  checksum: 0665e39fa6d7c936a129e7a1164a87513d49e4ad605bf1845283bb2064aa016603d990fe81c246dacf7e6b2d4c5c850eecb90515a2d017283d7d24bc62c60ea0
+    vue-tsc:
+      optional: true
+  checksum: 8c991c63b61e52fc69a22033aa34c6cb698d6af7dd7505a9fecb62c6e8486bc6f9667c23f5ad6f7289d9d2780bdb4711740433a5cabc27c4c7d763d028d54b2a
   languageName: node
   linkType: hard
 
