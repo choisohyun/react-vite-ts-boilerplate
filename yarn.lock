@@ -8659,7 +8659,7 @@ __metadata:
     sass: "npm:1.69.5"
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
-    typescript: "npm:4.8.3"
+    typescript: "npm:4.9.5"
     vite: "npm:3.2.7"
     vite-plugin-checker: "npm:0.5.1"
     vite-plugin-html: "npm:3.2.0"
@@ -10060,13 +10060,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:4.8.3":
-  version: 4.8.3
-  resolution: "typescript@npm:4.8.3"
+"typescript@npm:4.9.5":
+  version: 4.9.5
+  resolution: "typescript@npm:4.9.5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: b7cd1fadba69a891edfbcaf1c5b9c8e7cbdbe979729ef7fdbe8bfa2818c8c141024e433d4430e874890400caf4afd6ab7baa7c2e247e39c9c7b5a80754804ac6
+  checksum: 5f6cad2e728a8a063521328e612d7876e12f0d8a8390d3b3aaa452a6a65e24e9ac8ea22beb72a924fd96ea0a49ea63bb4e251fb922b12eedfb7f7a26475e5c56
   languageName: node
   linkType: hard
 
@@ -10080,13 +10080,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A4.8.3#optional!builtin<compat/typescript>":
-  version: 4.8.3
-  resolution: "typescript@patch:typescript@npm%3A4.8.3#optional!builtin<compat/typescript>::version=4.8.3&hash=3b564f"
+"typescript@patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>":
+  version: 4.9.5
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 45179c7be9630a41e65f8e77de9aebf43f5b892141f49471e18aa9f79b6426f8d9d6e9482bf184ea7c05918bdebd1dd801993ddd31c21b8e6757fa429a36be77
+  checksum: e3333f887c6829dfe0ab6c1dbe0dd1e3e2aeb56c66460cb85c5440c566f900c833d370ca34eb47558c0c69e78ced4bfe09b8f4f98b6de7afed9b84b8d1dd06a1
   languageName: node
   linkType: hard
 
