@@ -68,7 +68,7 @@ const RAW_RUNTIME_STATE =
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.5.1"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.0"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.5.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.23.2"]\
@@ -10403,7 +10403,7 @@ const RAW_RUNTIME_STATE =
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.5.1"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.0"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.5.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.23.2"]\
@@ -12266,33 +12266,42 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["vite-plugin-checker", [\
-      ["npm:0.5.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/vite-plugin-checker-npm-0.5.1-17df3c4ba9-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["npm:0.6.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/vite-plugin-checker-npm-0.6.2-70f410ec23-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
-          ["vite-plugin-checker", "npm:0.5.1"]\
+          ["vite-plugin-checker", "npm:0.6.2"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.5.1", {\
-        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-526d7acdc8/5/cache/others/berry/cache/vite-plugin-checker-npm-0.5.1-17df3c4ba9-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2", {\
+        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-9d771a5775/5/cache/others/berry/cache/vite-plugin-checker-npm-0.6.2-70f410ec23-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.5.1"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2"],\
           ["@babel/code-frame", "npm:7.16.7"],\
           ["@types/eslint", null],\
+          ["@types/meow", null],\
+          ["@types/optionator", null],\
+          ["@types/stylelint", null],\
           ["@types/typescript", null],\
           ["@types/vite", null],\
           ["@types/vls", null],\
           ["@types/vti", null],\
+          ["@types/vue-tsc", null],\
           ["ansi-escapes", "npm:4.3.2"],\
           ["chalk", "npm:4.1.2"],\
           ["chokidar", "npm:3.5.3"],\
           ["commander", "npm:8.3.0"],\
           ["eslint", "npm:8.23.1"],\
           ["fast-glob", "npm:3.2.11"],\
+          ["fs-extra", "npm:11.1.1"],\
           ["lodash.debounce", "npm:4.0.8"],\
           ["lodash.pick", "npm:4.4.0"],\
+          ["meow", null],\
           ["npm-run-path", "npm:4.0.1"],\
+          ["optionator", null],\
+          ["semver", "npm:7.5.4"],\
           ["strip-ansi", "npm:6.0.1"],\
+          ["stylelint", null],\
           ["tiny-invariant", "npm:1.2.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
@@ -12301,19 +12310,28 @@ const RAW_RUNTIME_STATE =
           ["vscode-languageserver", "npm:7.0.0"],\
           ["vscode-languageserver-textdocument", "npm:1.0.5"],\
           ["vscode-uri", "npm:3.0.3"],\
-          ["vti", null]\
+          ["vti", null],\
+          ["vue-tsc", null]\
         ],\
         "packagePeers": [\
           "@types/eslint",\
+          "@types/meow",\
+          "@types/optionator",\
+          "@types/stylelint",\
           "@types/typescript",\
           "@types/vite",\
           "@types/vls",\
           "@types/vti",\
+          "@types/vue-tsc",\
           "eslint",\
+          "meow",\
+          "optionator",\
+          "stylelint",\
           "typescript",\
           "vite",\
           "vls",\
-          "vti"\
+          "vti",\
+          "vue-tsc"\
         ],\
         "linkType": "HARD"\
       }]\
