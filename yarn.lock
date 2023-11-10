@@ -8656,7 +8656,7 @@ __metadata:
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
     react-router-dom: "npm:6.4.3"
-    sass: "npm:1.54.9"
+    sass: "npm:1.69.5"
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
     typescript: "npm:4.8.3"
@@ -9080,16 +9080,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:1.54.9":
-  version: 1.54.9
-  resolution: "sass@npm:1.54.9"
+"sass@npm:1.69.5":
+  version: 1.69.5
+  resolution: "sass@npm:1.69.5"
   dependencies:
     chokidar: "npm:>=3.0.0 <4.0.0"
     immutable: "npm:^4.0.0"
     source-map-js: "npm:>=0.6.2 <2.0.0"
   bin:
     sass: sass.js
-  checksum: a9062ab5f85bcad72517867cfcd3319492bff2aa45aad5a604dd7eff18e6496b473f241fb9255a820c826cadd586cb8e2a03d597cb092fdcf3074a7d3df18714
+  checksum: a9003a9482f2e467fc412cfe58ba4fa14fb78bef7e1283ce5d64a065f8a31114ec3bbf5d4e724f94eb8512c32c768a6f91f228c7f16a26a300bbf4db293b5608
   languageName: node
   linkType: hard
 
