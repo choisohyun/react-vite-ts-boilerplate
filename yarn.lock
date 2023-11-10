@@ -8663,7 +8663,7 @@ __metadata:
     vite: "npm:3.2.7"
     vite-plugin-checker: "npm:0.6.2"
     vite-plugin-html: "npm:3.2.0"
-    vite-tsconfig-paths: "npm:3.5.0"
+    vite-tsconfig-paths: "npm:3.6.0"
     vitest: "npm:0.23.2"
   bin:
     react-vite-ts-boilerplate: ./bin/react-vite-ts-boilerplate.js
@@ -10350,9 +10350,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-tsconfig-paths@npm:3.5.0":
-  version: 3.5.0
-  resolution: "vite-tsconfig-paths@npm:3.5.0"
+"vite-tsconfig-paths@npm:3.6.0":
+  version: 3.6.0
+  resolution: "vite-tsconfig-paths@npm:3.6.0"
   dependencies:
     debug: "npm:^4.1.1"
     globrex: "npm:^0.1.2"
@@ -10360,7 +10360,7 @@ __metadata:
     tsconfig-paths: "npm:^4.0.0"
   peerDependencies:
     vite: ">2.0.0-0"
-  checksum: 300eb3dd2765e421b0a84cf4f5c7e88a186b796e411bbb6c6d62b5dd14d0e5cbed565b29563644c5fcead4bd384262d4e5d461d47697eb1fcc2563014dee73d0
+  checksum: 96dffa52020f09331df6acd66cd67c95eafcd2f24dfdac4e518b6be7e5dba0408d23a543faa7bece3e1c740803c583802db9bcf74a2fde4b563c449e8f9ad67f
   languageName: node
   linkType: hard
 
