@@ -1438,10 +1438,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remix-run/router@npm:1.0.3":
-  version: 1.0.3
-  resolution: "@remix-run/router@npm:1.0.3"
-  checksum: ccaa13272014a7f068478eb981bfba6d432a8eae8992b47fb6f85d270aadcb061c2e01f70edd635c4a9e36c21727ccb60075c1b1e3ad03c731e803e8fca511d8
+"@remix-run/router@npm:1.11.0":
+  version: 1.11.0
+  resolution: "@remix-run/router@npm:1.11.0"
+  checksum: 046b382e149e198f4aac02355545ef83c4c97b203d08008dcdb9b25d0f2193e21c3ba2332aba572d4f1450b68aabc77cbc278cb5a7b252cc6e1d239d81a6f7e2
   languageName: node
   linkType: hard
 
@@ -8919,27 +8919,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:6.4.3":
-  version: 6.4.3
-  resolution: "react-router-dom@npm:6.4.3"
+"react-router-dom@npm:6.18.0":
+  version: 6.18.0
+  resolution: "react-router-dom@npm:6.18.0"
   dependencies:
-    "@remix-run/router": "npm:1.0.3"
-    react-router: "npm:6.4.3"
+    "@remix-run/router": "npm:1.11.0"
+    react-router: "npm:6.18.0"
   peerDependencies:
     react: ">=16.8"
     react-dom: ">=16.8"
-  checksum: e1f1b7c13cd800dff0f6fefb840e89bc46113db66ac96e7e251e4c59367ac5d4aac9a9bff45446e47b784d111ce10018b3a880e66aea6ea02f14fd116294af85
+  checksum: 9c2893f6b95ca2f25e0ee816d9467fcd18bf1e854d53cde6edf93efbb49972693a898dde6bb8e9ce3c9a2a26f27291b904740e84da9b92a1e560740d5677ce0c
   languageName: node
   linkType: hard
 
-"react-router@npm:6.4.3":
-  version: 6.4.3
-  resolution: "react-router@npm:6.4.3"
+"react-router@npm:6.18.0":
+  version: 6.18.0
+  resolution: "react-router@npm:6.18.0"
   dependencies:
-    "@remix-run/router": "npm:1.0.3"
+    "@remix-run/router": "npm:1.11.0"
   peerDependencies:
     react: ">=16.8"
-  checksum: 58493e0ce7f7ccee0d5f813b07e7bc7838ec7831c71bf31fe576ed8a4208fe49de125fd73f31fa380a78fef82aed3808dade1612f5646f5e8f9611b02bd53917
+  checksum: 185d240cb8c6119eefcb16e6df0fb0a75fb736eb1a1f24e7569783286295da48cf66e922c1eee43aa497e464cf2d455b89d1d552e288889ae0c355790b1eac0d
   languageName: node
   linkType: hard
 
@@ -8983,7 +8983,7 @@ __metadata:
     prettier: "npm:2.7.1"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
-    react-router-dom: "npm:6.4.3"
+    react-router-dom: "npm:6.18.0"
     sass: "npm:1.69.5"
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
