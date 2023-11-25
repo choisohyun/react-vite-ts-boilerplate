@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@commitlint/cli", "npm:17.8.1"],\
           ["@commitlint/config-conventional", "npm:17.8.1"],\
-          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
+          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.0"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.3"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
           ["@testing-library/dom", "npm:8.20.1"],\
@@ -1799,20 +1799,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@rollup/plugin-alias", [\
-      ["npm:3.1.9", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@rollup-plugin-alias-npm-3.1.9-f58d88ad2a-10c0.zip/node_modules/@rollup/plugin-alias/",\
+      ["npm:5.1.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@rollup-plugin-alias-npm-5.1.0-5f8a6a898f-10c0.zip/node_modules/@rollup/plugin-alias/",\
         "packageDependencies": [\
-          ["@rollup/plugin-alias", "npm:3.1.9"]\
+          ["@rollup/plugin-alias", "npm:5.1.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9", {\
-        "packageLocation": "./.yarn/__virtual__/@rollup-plugin-alias-virtual-d2501e9f4b/5/cache/others/berry/cache/@rollup-plugin-alias-npm-3.1.9-f58d88ad2a-10c0.zip/node_modules/@rollup/plugin-alias/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.0", {\
+        "packageLocation": "./.yarn/__virtual__/@rollup-plugin-alias-virtual-d25856ad02/5/cache/others/berry/cache/@rollup-plugin-alias-npm-5.1.0-5f8a6a898f-10c0.zip/node_modules/@rollup/plugin-alias/",\
         "packageDependencies": [\
-          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
+          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.0"],\
           ["@types/rollup", null],\
           ["rollup", null],\
-          ["slash", "npm:3.0.0"]\
+          ["slash", "npm:4.0.0"]\
         ],\
         "packagePeers": [\
           "@types/rollup",\
@@ -10777,7 +10777,7 @@ const RAW_RUNTIME_STATE =
           ["react-vite-ts-boilerplate", "workspace:."],\
           ["@commitlint/cli", "npm:17.8.1"],\
           ["@commitlint/config-conventional", "npm:17.8.1"],\
-          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
+          ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.0"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.3"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
           ["@testing-library/dom", "npm:8.20.1"],\
@@ -11485,6 +11485,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/slash-npm-3.0.0-b87de2279a-10c0.zip/node_modules/slash/",\
         "packageDependencies": [\
           ["slash", "npm:3.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/slash-npm-4.0.0-ce4bbc4a80-10c0.zip/node_modules/slash/",\
+        "packageDependencies": [\
+          ["slash", "npm:4.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
