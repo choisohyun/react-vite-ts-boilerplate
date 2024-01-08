@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.3"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
-          ["@testing-library/dom", "npm:8.20.1"],\
+          ["@testing-library/dom", "npm:9.3.4"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.5.1"],\
@@ -2178,10 +2178,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.20.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@testing-library-dom-npm-8.20.1-453580d160-10c0.zip/node_modules/@testing-library/dom/",\
+      ["npm:9.3.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@testing-library-dom-npm-9.3.4-cfb609c4fc-10c0.zip/node_modules/@testing-library/dom/",\
         "packageDependencies": [\
-          ["@testing-library/dom", "npm:8.20.1"],\
+          ["@testing-library/dom", "npm:9.3.4"],\
           ["@babel/code-frame", "npm:7.16.7"],\
           ["@babel/runtime", "npm:7.18.3"],\
           ["@types/aria-query", "npm:5.0.4"],\
@@ -2266,7 +2266,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@testing-library-user-event-virtual-4e4aa0b977/5/cache/others/berry/cache/@testing-library-user-event-npm-14.5.1-daca21fbcb-10c0.zip/node_modules/@testing-library/user-event/",\
         "packageDependencies": [\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.5.1"],\
-          ["@testing-library/dom", "npm:8.20.1"],\
+          ["@testing-library/dom", "npm:9.3.4"],\
           ["@types/testing-library__dom", null]\
         ],\
         "packagePeers": [\
@@ -10780,7 +10780,7 @@ const RAW_RUNTIME_STATE =
           ["@rollup/plugin-alias", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.1.9"],\
           ["@semantic-release/changelog", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.0.3"],\
           ["@semantic-release/git", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.0.1"],\
-          ["@testing-library/dom", "npm:8.20.1"],\
+          ["@testing-library/dom", "npm:9.3.4"],\
           ["@testing-library/react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:13.4.0"],\
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.5.1"],\
