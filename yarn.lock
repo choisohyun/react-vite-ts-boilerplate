@@ -6627,10 +6627,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lilconfig@npm:^2.0.3, lilconfig@npm:^2.0.5":
+"lilconfig@npm:^2.0.3":
   version: 2.0.5
   resolution: "lilconfig@npm:2.0.5"
   checksum: eed9afcecf1b864405f4b7299abefb87945edba250c70896de54b19b08b87333abc268cc6689539bc33f0e8d098139578704bf51af8077d358f1ac95d58beef0
+  languageName: node
+  linkType: hard
+
+"lilconfig@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "lilconfig@npm:3.0.0"
+  checksum: 7f5ee7a658dc016cacf146815e8d88b06f06f4402823b8b0934e305a57a197f55ccc9c5cd4fb5ea1b2b821c8ccaf2d54abd59602a4931af06eabda332388d3e6
   languageName: node
   linkType: hard
 
@@ -8389,12 +8396,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-load-config@npm:4.0.1":
-  version: 4.0.1
-  resolution: "postcss-load-config@npm:4.0.1"
+"postcss-load-config@npm:4.0.2":
+  version: 4.0.2
+  resolution: "postcss-load-config@npm:4.0.2"
   dependencies:
-    lilconfig: "npm:^2.0.5"
-    yaml: "npm:^2.1.1"
+    lilconfig: "npm:^3.0.0"
+    yaml: "npm:^2.3.4"
   peerDependencies:
     postcss: ">=8.0.9"
     ts-node: ">=9.0.0"
@@ -8403,7 +8410,7 @@ __metadata:
       optional: true
     ts-node:
       optional: true
-  checksum: 5f568420c4d758d77d661f26914c08fe8dfb0666c7b779dc4f48d7fd880d131e8aa232a45cc1a8ba3f47f9c5fca572b661ca0103c2212979e9dc00918cff3d5f
+  checksum: 3d7939acb3570b0e4b4740e483d6e555a3e2de815219cb8a3c8fc03f575a6bde667443aa93369c0be390af845cb84471bf623e24af833260de3a105b78d42519
   languageName: node
   linkType: hard
 
@@ -8999,7 +9006,7 @@ __metadata:
     lint-staged: "npm:13.3.0"
     postcss: "npm:8.4.33"
     postcss-import: "npm:15.1.0"
-    postcss-load-config: "npm:4.0.1"
+    postcss-load-config: "npm:4.0.2"
     postcss-loader: "npm:7.3.3"
     postcss-nested: "npm:5.0.6"
     prettier: "npm:2.7.1"
@@ -11254,10 +11261,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:^2.1.1":
-  version: 2.1.1
-  resolution: "yaml@npm:2.1.1"
-  checksum: ef67e9d3e4b83234ba85bd5dc380164017620b7f1e1589fd0343c4c0ba500fe92388d75f5aba8af6346b02dda93a3ad0929eab210c41367bc6b786c0a0dca3af
+"yaml@npm:^2.3.4":
+  version: 2.3.4
+  resolution: "yaml@npm:2.3.4"
+  checksum: cf03b68f8fef5e8516b0f0b54edaf2459f1648317fc6210391cf606d247e678b449382f4bd01f77392538429e306c7cba8ff46ff6b37cac4de9a76aff33bd9e1
   languageName: node
   linkType: hard
 
