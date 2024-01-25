@@ -9019,7 +9019,7 @@ __metadata:
     typescript: "npm:4.9.5"
     vite: "npm:3.2.8"
     vite-plugin-checker: "npm:0.6.2"
-    vite-plugin-html: "npm:3.2.0"
+    vite-plugin-html: "npm:3.2.2"
     vite-tsconfig-paths: "npm:3.6.0"
     vitest: "npm:0.34.6"
   bin:
@@ -10765,9 +10765,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-html@npm:3.2.0":
-  version: 3.2.0
-  resolution: "vite-plugin-html@npm:3.2.0"
+"vite-plugin-html@npm:3.2.2":
+  version: 3.2.2
+  resolution: "vite-plugin-html@npm:3.2.2"
   dependencies:
     "@rollup/pluginutils": "npm:^4.2.0"
     colorette: "npm:^2.0.16"
@@ -10783,7 +10783,7 @@ __metadata:
     pathe: "npm:^0.2.0"
   peerDependencies:
     vite: ">=2.0.0"
-  checksum: 7814b119da2dfa584d10058c1df2da938c7e72bbbaaf98747a08979aa3294823838ba21d9f2e6581f1a8f1c0d4c0d62cc57082f7c8a17c85e0eef47fa4e2a970
+  checksum: 34628f44f07a9656875c66ba0c4dbe6be39646c50f961cb771179b930dd5727281836ee4293d7e89fe36043703a0ff40df06b15b90260d48a642420e008eb76a
   languageName: node
   linkType: hard
 
