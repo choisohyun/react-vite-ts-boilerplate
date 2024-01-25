@@ -67,7 +67,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"],\
           ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.0"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
@@ -2798,7 +2798,7 @@ const RAW_RUNTIME_STATE =
           ["@types/vite", null],\
           ["magic-string", "npm:0.26.7"],\
           ["react-refresh", "npm:0.14.0"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"]\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"]\
         ],\
         "packagePeers": [\
           "@types/vite",\
@@ -10843,7 +10843,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"],\
           ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.6.2"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.0"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
@@ -12673,10 +12673,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["vite", [\
-      ["npm:3.2.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/vite-npm-3.2.7-dc0dc30c5d-10c0.zip/node_modules/vite/",\
+      ["npm:3.2.8", {\
+        "packageLocation": "../../../../cache/others/berry/cache/vite-npm-3.2.8-99af183416-10c0.zip/node_modules/vite/",\
         "packageDependencies": [\
-          ["vite", "npm:3.2.7"]\
+          ["vite", "npm:3.2.8"]\
         ],\
         "linkType": "SOFT"\
       }],\
@@ -12687,10 +12687,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7", {\
-        "packageLocation": "./.yarn/__virtual__/vite-virtual-758d17578e/5/cache/others/berry/cache/vite-npm-3.2.7-dc0dc30c5d-10c0.zip/node_modules/vite/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8", {\
+        "packageLocation": "./.yarn/__virtual__/vite-virtual-b5d7af1e22/5/cache/others/berry/cache/vite-npm-3.2.8-99af183416-10c0.zip/node_modules/vite/",\
         "packageDependencies": [\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"],\
           ["@types/less", null],\
           ["@types/node", "npm:18.18.9"],\
           ["@types/sass", null],\
@@ -12856,7 +12856,7 @@ const RAW_RUNTIME_STATE =
           ["stylelint", null],\
           ["tiny-invariant", "npm:1.2.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"],\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"],\
           ["vls", null],\
           ["vscode-languageclient", "npm:7.0.0"],\
           ["vscode-languageserver", "npm:7.0.0"],\
@@ -12913,7 +12913,7 @@ const RAW_RUNTIME_STATE =
           ["html-minifier-terser", "npm:6.1.0"],\
           ["node-html-parser", "npm:5.3.3"],\
           ["pathe", "npm:0.2.0"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"]\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"]\
         ],\
         "packagePeers": [\
           "@types/vite",\
@@ -12939,7 +12939,7 @@ const RAW_RUNTIME_STATE =
           ["globrex", "npm:0.1.2"],\
           ["recrawl-sync", "npm:2.2.2"],\
           ["tsconfig-paths", "npm:4.0.0"],\
-          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.7"]\
+          ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.8"]\
         ],\
         "packagePeers": [\
           "@types/vite",\
