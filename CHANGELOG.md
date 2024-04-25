@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.7...v1.2.8) (2024-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-router-dom to v6.23.0 ([dbc2e8c](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/dbc2e8c946a5045c17d25cc544e689ef717fece1))
+
 ## [1.2.7](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.6...v1.2.7) (2024-04-10)
 
 
