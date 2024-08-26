@@ -1908,12 +1908,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.45":
-  version: 18.19.45
-  resolution: "@types/node@npm:18.19.45"
+"@types/node@npm:18.19.46":
+  version: 18.19.46
+  resolution: "@types/node@npm:18.19.46"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10c0/79c324176411dcfa92f76b0ffc0673aa4bd8da82d003b44633e927c9493cdc46c35f04c0873b096b23b12bab090a6bbdea21242b3bbb2ea5dc1d9bf72adaa04f
+  checksum: 10c0/9b4aae9d2bd84f450f4e64f84d793b8867f7caaa66d0bfff2babf45cd2bb3836f245deb12ebf145da267e39a31a8d9a3484012c2b0a16894d384b66bb0c2b1b5
   languageName: node
   linkType: hard
 
@@ -8985,7 +8985,7 @@ __metadata:
     "@testing-library/react-hooks": "npm:8.0.1"
     "@testing-library/user-event": "npm:14.5.2"
     "@types/jest": "npm:29.5.12"
-    "@types/node": "npm:18.19.45"
+    "@types/node": "npm:18.19.46"
     "@types/react": "npm:18.3.4"
     "@types/react-dom": "npm:18.3.0"
     "@typescript-eslint/eslint-plugin": "npm:5.62.0"
