@@ -9023,7 +9023,7 @@ __metadata:
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
     typescript: "npm:4.9.5"
-    vite: "npm:3.2.10"
+    vite: "npm:3.2.11"
     vite-plugin-checker: "npm:0.7.2"
     vite-plugin-html: "npm:3.2.2"
     vite-tsconfig-paths: "npm:3.6.0"
@@ -10814,9 +10814,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:3.2.10":
-  version: 3.2.10
-  resolution: "vite@npm:3.2.10"
+"vite@npm:3.2.11":
+  version: 3.2.11
+  resolution: "vite@npm:3.2.11"
   dependencies:
     esbuild: "npm:^0.15.9"
     fsevents: "npm:~2.3.2"
@@ -10848,7 +10848,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10c0/c5316e393ea392131c2fb7985bd89a4e10ec4bb656a52d709f2f975cb59d59ce6e479aabcc90e572ba1762ce3644195bd30c70e11dd552b3236bab2638206021
+  checksum: 10c0/c58eb2bd126b85e1a79e4d29069d22d063a7aee767ead833981b24c9206d0ae220b18139b06f1f9b17823ee23ab1e956e043a863a3d19882bd48b67c78a28921
   languageName: node
   linkType: hard
 
