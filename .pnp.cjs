@@ -52,7 +52,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.3"],\
+          ["husky", "npm:9.1.7"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.3"],\
           ["lint-staged", "npm:13.3.0"],\
           ["postcss", "npm:8.4.47"],\
@@ -6889,10 +6889,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:8.0.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/husky-npm-8.0.3-b0b59c5127-10c0.zip/node_modules/husky/",\
+      ["npm:9.1.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/husky-npm-9.1.7-5b02eaabc4-10c0.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:8.0.3"]\
+          ["husky", "npm:9.1.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11016,7 +11016,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.3"],\
+          ["husky", "npm:9.1.7"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.3"],\
           ["lint-staged", "npm:13.3.0"],\
           ["postcss", "npm:8.4.47"],\
