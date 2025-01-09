@@ -37,7 +37,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.5.2"],\
           ["@types/jest", "npm:29.5.14"],\
-          ["@types/node", "npm:18.19.70"],\
+          ["@types/node", "npm:22.10.5"],\
           ["@types/react", "npm:18.3.18"],\
           ["@types/react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.5"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.62.0"],\
@@ -2566,14 +2566,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:18.19.70", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.19.70-cf541ea375-10c0.zip/node_modules/@types/node/",\
-        "packageDependencies": [\
-          ["@types/node", "npm:18.19.70"],\
-          ["undici-types", "npm:5.26.5"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:18.6.4", {\
         "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.6.4-8be642300e-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
@@ -2585,6 +2577,14 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.5.1-d4e9ac5c26-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:20.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:22.10.5", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.5-cd9f5f929b-10c0.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:22.10.5"],\
+          ["undici-types", "npm:6.20.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10992,7 +10992,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react-hooks", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.0.1"],\
           ["@testing-library/user-event", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:14.5.2"],\
           ["@types/jest", "npm:29.5.14"],\
-          ["@types/node", "npm:18.19.70"],\
+          ["@types/node", "npm:22.10.5"],\
           ["@types/react", "npm:18.3.18"],\
           ["@types/react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.5"],\
           ["@typescript-eslint/eslint-plugin", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.62.0"],\
@@ -12655,10 +12655,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:5.26.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-5.26.5-de4f7c7bb9-10c0.zip/node_modules/undici-types/",\
+      ["npm:6.20.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-6.20.0-bd21e669af-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:5.26.5"]\
+          ["undici-types", "npm:6.20.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -12887,7 +12887,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
           ["@types/less", null],\
-          ["@types/node", "npm:18.19.70"],\
+          ["@types/node", "npm:22.10.5"],\
           ["@types/sass", null],\
           ["@types/stylus", null],\
           ["@types/sugarss", null],\
