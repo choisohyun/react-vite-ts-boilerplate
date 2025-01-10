@@ -63,7 +63,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.7.1"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
-          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0"],\
+          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.28.1"],\
           ["sass", "npm:1.83.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
@@ -1925,10 +1925,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@remix-run/router", [\
-      ["npm:1.20.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@remix-run-router-npm-1.20.0-facc350fa9-10c0.zip/node_modules/@remix-run/router/",\
+      ["npm:1.21.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@remix-run-router-npm-1.21.0-22ebfe59d7-10c0.zip/node_modules/@remix-run/router/",\
         "packageDependencies": [\
-          ["@remix-run/router", "npm:1.20.0"]\
+          ["@remix-run/router", "npm:1.21.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10927,18 +10927,18 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-router", [\
-      ["npm:6.27.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/react-router-npm-6.27.0-1707eacc21-10c0.zip/node_modules/react-router/",\
+      ["npm:6.28.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/react-router-npm-6.28.1-78d47eb78b-10c0.zip/node_modules/react-router/",\
         "packageDependencies": [\
-          ["react-router", "npm:6.27.0"]\
+          ["react-router", "npm:6.28.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:0a4d734d679c57f525b7340c922ce43f061bdcf41adc0079f656e49f5a0d897f87a8b48311022db55b1f06981d20a7387a5acdf2468404693fe88e7e4bbb8649#npm:6.27.0", {\
-        "packageLocation": "./.yarn/__virtual__/react-router-virtual-8ccece3c4c/5/cache/others/berry/cache/react-router-npm-6.27.0-1707eacc21-10c0.zip/node_modules/react-router/",\
+      ["virtual:54f0d698355a94976a7f1408cc71ec989dcefbc590a76e070a423df4c6e75c9c9237d3e932b77774b2e085f70a1eaaabf15f67ea50b97fd1f1f76357b6dd45c5#npm:6.28.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-router-virtual-f8e61097ef/5/cache/others/berry/cache/react-router-npm-6.28.1-78d47eb78b-10c0.zip/node_modules/react-router/",\
         "packageDependencies": [\
-          ["react-router", "virtual:0a4d734d679c57f525b7340c922ce43f061bdcf41adc0079f656e49f5a0d897f87a8b48311022db55b1f06981d20a7387a5acdf2468404693fe88e7e4bbb8649#npm:6.27.0"],\
-          ["@remix-run/router", "npm:1.20.0"],\
+          ["react-router", "virtual:54f0d698355a94976a7f1408cc71ec989dcefbc590a76e070a423df4c6e75c9c9237d3e932b77774b2e085f70a1eaaabf15f67ea50b97fd1f1f76357b6dd45c5#npm:6.28.1"],\
+          ["@remix-run/router", "npm:1.21.0"],\
           ["@types/react", "npm:18.3.18"],\
           ["react", "npm:18.3.1"]\
         ],\
@@ -10950,23 +10950,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-router-dom", [\
-      ["npm:6.27.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/react-router-dom-npm-6.27.0-de32a53fc4-10c0.zip/node_modules/react-router-dom/",\
+      ["npm:6.28.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/react-router-dom-npm-6.28.1-38cf93853d-10c0.zip/node_modules/react-router-dom/",\
         "packageDependencies": [\
-          ["react-router-dom", "npm:6.27.0"]\
+          ["react-router-dom", "npm:6.28.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0", {\
-        "packageLocation": "./.yarn/__virtual__/react-router-dom-virtual-0a4d734d67/5/cache/others/berry/cache/react-router-dom-npm-6.27.0-de32a53fc4-10c0.zip/node_modules/react-router-dom/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.28.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-router-dom-virtual-54f0d69835/5/cache/others/berry/cache/react-router-dom-npm-6.28.1-38cf93853d-10c0.zip/node_modules/react-router-dom/",\
         "packageDependencies": [\
-          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0"],\
-          ["@remix-run/router", "npm:1.20.0"],\
+          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.28.1"],\
+          ["@remix-run/router", "npm:1.21.0"],\
           ["@types/react", "npm:18.3.18"],\
           ["@types/react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.5"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
-          ["react-router", "virtual:0a4d734d679c57f525b7340c922ce43f061bdcf41adc0079f656e49f5a0d897f87a8b48311022db55b1f06981d20a7387a5acdf2468404693fe88e7e4bbb8649#npm:6.27.0"]\
+          ["react-router", "virtual:54f0d698355a94976a7f1408cc71ec989dcefbc590a76e070a423df4c6e75c9c9237d3e932b77774b2e085f70a1eaaabf15f67ea50b97fd1f1f76357b6dd45c5#npm:6.28.1"]\
         ],\
         "packagePeers": [\
           "@types/react-dom",\
@@ -11018,7 +11018,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.7.1"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
-          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0"],\
+          ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.28.1"],\
           ["sass", "npm:1.83.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
@@ -16277,7 +16277,7 @@ class MountFS extends BasePortableFakeFS {
         if (this.notMount.has(filePath))
           continue;
         try {
-          if (this.typeCheck !== null && (this.baseFs.lstatSync(filePath).mode & fs.constants.S_IFMT) !== this.typeCheck) {
+          if (this.typeCheck !== null && (this.baseFs.statSync(filePath).mode & fs.constants.S_IFMT) !== this.typeCheck) {
             this.notMount.add(filePath);
             continue;
           }
@@ -19290,18 +19290,20 @@ Require stack:
     }
     return false;
   };
-  const originalExtensionJSFunction = require$$0.Module._extensions[`.js`];
-  require$$0.Module._extensions[`.js`] = function(module, filename) {
-    if (filename.endsWith(`.js`)) {
-      const pkg = readPackageScope(filename);
-      if (pkg && pkg.data?.type === `module`) {
-        const err = ERR_REQUIRE_ESM(filename, module.parent?.filename);
-        Error.captureStackTrace(err);
-        throw err;
+  if (!process.features.require_module) {
+    const originalExtensionJSFunction = require$$0.Module._extensions[`.js`];
+    require$$0.Module._extensions[`.js`] = function(module, filename) {
+      if (filename.endsWith(`.js`)) {
+        const pkg = readPackageScope(filename);
+        if (pkg && pkg.data?.type === `module`) {
+          const err = ERR_REQUIRE_ESM(filename, module.parent?.filename);
+          Error.captureStackTrace(err);
+          throw err;
+        }
       }
-    }
-    originalExtensionJSFunction.call(this, module, filename);
-  };
+      originalExtensionJSFunction.call(this, module, filename);
+    };
+  }
   const originalDlopen = process.dlopen;
   process.dlopen = function(...args) {
     const [module, filename, ...rest] = args;
