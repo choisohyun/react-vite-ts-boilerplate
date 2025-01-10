@@ -64,7 +64,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0"],\
-          ["sass", "npm:1.80.5"],\
+          ["sass", "npm:1.83.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
@@ -6918,10 +6918,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["immutable", [\
-      ["npm:4.1.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/immutable-npm-4.1.0-f6635927b8-10c0.zip/node_modules/immutable/",\
+      ["npm:5.0.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/immutable-npm-5.0.3-c4195fd7f3-10c0.zip/node_modules/immutable/",\
         "packageDependencies": [\
-          ["immutable", "npm:4.1.0"]\
+          ["immutable", "npm:5.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11019,7 +11019,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.27.0"],\
-          ["sass", "npm:1.80.5"],\
+          ["sass", "npm:1.83.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
@@ -11468,13 +11468,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.80.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.80.5-859ab57fc4-10c0.zip/node_modules/sass/",\
+      ["npm:1.83.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.83.1-543e7bb3e0-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.80.5"],\
+          ["sass", "npm:1.83.1"],\
           ["@parcel/watcher", "npm:2.4.1"],\
           ["chokidar", "npm:4.0.1"],\
-          ["immutable", "npm:4.1.0"],\
+          ["immutable", "npm:5.0.3"],\
           ["source-map-js", "npm:1.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -12898,7 +12898,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.19"],\
           ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
           ["rollup", "npm:2.79.1"],\
-          ["sass", "npm:1.80.5"],\
+          ["sass", "npm:1.83.1"],\
           ["stylus", null],\
           ["sugarss", null],\
           ["terser", null]\
