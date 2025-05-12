@@ -1590,10 +1590,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remix-run/router@npm:1.21.0":
-  version: 1.21.0
-  resolution: "@remix-run/router@npm:1.21.0"
-  checksum: 10c0/570792211c083a1c7146613b79cbb8e0d1e14f34e974052e060e7f9dcad38c800d80fe0a18bf42811bc278ab12c0e8fd62cfce649e905046c4e55bd5a09eafdc
+"@remix-run/router@npm:1.23.0":
+  version: 1.23.0
+  resolution: "@remix-run/router@npm:1.23.0"
+  checksum: 10c0/eaef5cb46a1e413f7d1019a75990808307e08e53a39d4cf69c339432ddc03143d725decef3d6b9b5071b898da07f72a4a57c4e73f787005fcf10162973d8d7d7
   languageName: node
   linkType: hard
 
@@ -9147,27 +9147,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:6.28.1":
-  version: 6.28.1
-  resolution: "react-router-dom@npm:6.28.1"
+"react-router-dom@npm:6.30.0":
+  version: 6.30.0
+  resolution: "react-router-dom@npm:6.30.0"
   dependencies:
-    "@remix-run/router": "npm:1.21.0"
-    react-router: "npm:6.28.1"
+    "@remix-run/router": "npm:1.23.0"
+    react-router: "npm:6.30.0"
   peerDependencies:
     react: ">=16.8"
     react-dom: ">=16.8"
-  checksum: 10c0/a32ec9c1a0da5f3e478e498a31ddc9f7ed15dbf1969802d94a4589e63f3f8e69c4b7defa0e24af3b7dd6cbe759eafe3eea31457cc8d409bd60240dee1eb46043
+  checksum: 10c0/262954ba894d6a241ceda5f61098f7d6a292d0018a6ebb9c9c67425b7deb6e59b6191a9233a03d38e287e60f7ac3702e9e84c8e20b39a6487698fe088b71e27a
   languageName: node
   linkType: hard
 
-"react-router@npm:6.28.1":
-  version: 6.28.1
-  resolution: "react-router@npm:6.28.1"
+"react-router@npm:6.30.0":
+  version: 6.30.0
+  resolution: "react-router@npm:6.30.0"
   dependencies:
-    "@remix-run/router": "npm:1.21.0"
+    "@remix-run/router": "npm:1.23.0"
   peerDependencies:
     react: ">=16.8"
-  checksum: 10c0/699da89e4629f227be803f5f06d3ace5522fca3035416b588380fea5f85ed7efb9155d041fb7b813305ca7fedebeb45f585696edb13cf4166fbb40fb18c77a93
+  checksum: 10c0/e6f20cf5c47ec057a057a4cfb9a55983d0a5b4b3314d20e07f0a70e59e004f51778d4dac415aee1e4e64db69cc4cd72e5acf8fd60dcf07d909895b8863b0b023
   languageName: node
   linkType: hard
 
@@ -9211,7 +9211,7 @@ __metadata:
     prettier: "npm:2.7.1"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
-    react-router-dom: "npm:6.28.1"
+    react-router-dom: "npm:6.30.0"
     sass: "npm:1.88.0"
     semantic-release: "npm:19.0.5"
     standard-version: "npm:9.5.0"
