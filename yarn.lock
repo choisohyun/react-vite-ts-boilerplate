@@ -2060,19 +2060,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.122":
-  version: 18.19.122
-  resolution: "@types/node@npm:18.19.122"
-  dependencies:
-    undici-types: "npm:~5.26.4"
-  checksum: 10c0/1fa545ff27866bd4e39c96e28c622cc354fe4fff0594a39e138eca96e706a30eba6f5cd7a49f13d9223dd93bb189ae9125fdab6604a8c4badade337b2d00d900
-  languageName: node
-  linkType: hard
-
 "@types/node@npm:20.5.1":
   version: 20.5.1
   resolution: "@types/node@npm:20.5.1"
   checksum: 10c0/b5aeaeb489842081190f8c2c09e923ff7b1b4ee3ecfceba12ba1030ce7750909a1b3c0f5372bd60cbe955e48a9889f416522e8a96697ad7209317752f395e3e5
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:22.17.1":
+  version: 22.17.1
+  resolution: "@types/node@npm:22.17.1"
+  dependencies:
+    undici-types: "npm:~6.21.0"
+  checksum: 10c0/b04063bdabfc4146af05d14d4fd23ee68615194473d0ef971ddef549b80b791f52c8f93abdd8d1092ee0257f3dea862fa233519244fd051e79233cdce614de14
   languageName: node
   linkType: hard
 
@@ -9192,7 +9192,7 @@ __metadata:
     "@testing-library/react-hooks": "npm:8.0.1"
     "@testing-library/user-event": "npm:14.6.1"
     "@types/jest": "npm:29.5.14"
-    "@types/node": "npm:18.19.122"
+    "@types/node": "npm:22.17.1"
     "@types/react": "npm:18.3.23"
     "@types/react-dom": "npm:18.3.7"
     "@typescript-eslint/eslint-plugin": "npm:5.62.0"
@@ -10757,10 +10757,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~5.26.4":
-  version: 5.26.5
-  resolution: "undici-types@npm:5.26.5"
-  checksum: 10c0/bb673d7876c2d411b6eb6c560e0c571eef4a01c1c19925175d16e3a30c4c428181fb8d7ae802a261f283e4166a0ac435e2f505743aa9e45d893f9a3df017b501
+"undici-types@npm:~6.21.0":
+  version: 6.21.0
+  resolution: "undici-types@npm:6.21.0"
+  checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
   languageName: node
   linkType: hard
 
