@@ -48,7 +48,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.21"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
-          ["core-js", "npm:3.45.1"],\
+          ["core-js", "npm:3.46.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
@@ -4486,10 +4486,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.45.1", {\
-        "packageLocation": "./.yarn/unplugged/core-js-npm-3.45.1-44df7e5ad1/node_modules/core-js/",\
+      ["npm:3.46.0", {\
+        "packageLocation": "./.yarn/unplugged/core-js-npm-3.46.0-457a28ad91/node_modules/core-js/",\
         "packageDependencies": [\
-          ["core-js", "npm:3.45.1"]\
+          ["core-js", "npm:3.46.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11046,7 +11046,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.4.21"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
-          ["core-js", "npm:3.45.1"],\
+          ["core-js", "npm:3.46.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
