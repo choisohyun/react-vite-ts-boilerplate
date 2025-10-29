@@ -71,7 +71,7 @@ const RAW_RUNTIME_STATE =
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.10.3"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.11.0"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.2"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.6"]\
@@ -11069,7 +11069,7 @@ const RAW_RUNTIME_STATE =
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.10.3"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.11.0"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.2"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.6"]\
@@ -12071,14 +12071,6 @@ const RAW_RUNTIME_STATE =
           ["strip-ansi", "npm:7.0.1"]\
         ],\
         "linkType": "HARD"\
-      }],\
-      ["npm:7.1.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/strip-ansi-npm-7.1.0-7453b80b79-10c0.zip/node_modules/strip-ansi/",\
-        "packageDependencies": [\
-          ["ansi-regex", "npm:6.0.1"],\
-          ["strip-ansi", "npm:7.1.0"]\
-        ],\
-        "linkType": "HARD"\
       }]\
     ]],\
     ["strip-bom", [\
@@ -13071,15 +13063,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["vite-plugin-checker", [\
-      ["npm:0.10.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/vite-plugin-checker-npm-0.10.3-ac0c3cc2bb-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["npm:0.11.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/vite-plugin-checker-npm-0.11.0-8b4c9e71ff-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
-          ["vite-plugin-checker", "npm:0.10.3"]\
+          ["vite-plugin-checker", "npm:0.11.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.10.3", {\
-        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-3fdbdbc40a/7/runner/cache/others/berry/cache/vite-plugin-checker-npm-0.10.3-ac0c3cc2bb-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.11.0", {\
+        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-ff283d445c/7/runner/cache/others/berry/cache/vite-plugin-checker-npm-0.11.0-8b4c9e71ff-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
           ["@babel/code-frame", "npm:7.27.1"],\
           ["@biomejs/biome", null],\
@@ -13087,6 +13079,7 @@ const RAW_RUNTIME_STATE =
           ["@types/eslint", null],\
           ["@types/meow", null],\
           ["@types/optionator", null],\
+          ["@types/oxlint", null],\
           ["@types/stylelint", null],\
           ["@types/typescript", null],\
           ["@types/vite", null],\
@@ -13098,15 +13091,15 @@ const RAW_RUNTIME_STATE =
           ["meow", null],\
           ["npm-run-path", "npm:6.0.0"],\
           ["optionator", null],\
+          ["oxlint", null],\
           ["picocolors", "npm:1.1.1"],\
           ["picomatch", "npm:4.0.3"],\
-          ["strip-ansi", "npm:7.1.0"],\
           ["stylelint", null],\
           ["tiny-invariant", "npm:1.3.3"],\
           ["tinyglobby", "npm:0.2.14"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.10.3"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.11.0"],\
           ["vls", null],\
           ["vscode-uri", "npm:3.1.0"],\
           ["vti", null],\
@@ -13118,6 +13111,7 @@ const RAW_RUNTIME_STATE =
           "@types/eslint",\
           "@types/meow",\
           "@types/optionator",\
+          "@types/oxlint",\
           "@types/stylelint",\
           "@types/typescript",\
           "@types/vite",\
@@ -13127,6 +13121,7 @@ const RAW_RUNTIME_STATE =
           "eslint",\
           "meow",\
           "optionator",\
+          "oxlint",\
           "stylelint",\
           "typescript",\
           "vite",\
