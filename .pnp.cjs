@@ -53,7 +53,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.3"],\
+          ["husky", "npm:9.1.7"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.3"],\
           ["lint-staged", "npm:13.3.0"],\
           ["postcss", "npm:8.5.14"],\
@@ -4489,14 +4489,14 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["core-js", [\
       ["npm:2.6.12", {\
-        "packageLocation": "./.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/",\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/core-js-npm-2.6.12-0b93d77d31-10c0.zip/node_modules/core-js/",\
         "packageDependencies": [\
           ["core-js", "npm:2.6.12"]\
         ],\
         "linkType": "HARD"\
       }],\
       ["npm:3.49.0", {\
-        "packageLocation": "./.yarn/unplugged/core-js-npm-3.49.0-0a974f48cc/node_modules/core-js/",\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/core-js-npm-3.49.0-0a974f48cc-10c0.zip/node_modules/core-js/",\
         "packageDependencies": [\
           ["core-js", "npm:3.49.0"]\
         ],\
@@ -5433,7 +5433,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["esbuild", [\
       ["npm:0.15.14", {\
-        "packageLocation": "./.yarn/unplugged/esbuild-npm-0.15.14-0f40bc75be/node_modules/esbuild/",\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/esbuild-npm-0.15.14-0f40bc75be-10c0.zip/node_modules/esbuild/",\
         "packageDependencies": [\
           ["@esbuild/android-arm", "npm:0.15.14"],\
           ["@esbuild/linux-loong64", "npm:0.15.14"],\
@@ -5462,7 +5462,7 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }],\
       ["npm:0.19.5", {\
-        "packageLocation": "./.yarn/unplugged/esbuild-npm-0.19.5-107ce8536d/node_modules/esbuild/",\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/esbuild-npm-0.19.5-107ce8536d-10c0.zip/node_modules/esbuild/",\
         "packageDependencies": [\
           ["@esbuild/android-arm", "npm:0.19.5"],\
           ["@esbuild/android-arm64", "npm:0.19.5"],\
@@ -6937,10 +6937,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:8.0.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/husky-npm-8.0.3-b0b59c5127-10c0.zip/node_modules/husky/",\
+      ["npm:9.1.7", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/husky-npm-9.1.7-5b02eaabc4-10c0.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:8.0.3"]\
+          ["husky", "npm:9.1.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11070,7 +11070,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
           ["eslint-plugin-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:4.2.1"],\
-          ["husky", "npm:8.0.3"],\
+          ["husky", "npm:9.1.7"],\
           ["jsdom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:20.0.3"],\
           ["lint-staged", "npm:13.3.0"],\
           ["postcss", "npm:8.5.14"],\
