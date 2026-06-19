@@ -66,7 +66,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.30.4"],\
           ["react-vite-ts-boilerplate", "workspace:."],\
-          ["sass", "npm:1.99.0"],\
+          ["sass", "npm:1.101.0"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
@@ -3908,19 +3908,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["chokidar", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/chokidar-npm-4.0.1-989df9ae3c-10c0.zip/node_modules/chokidar/",\
-        "packageDependencies": [\
-          ["chokidar", "npm:4.0.1"],\
-          ["readdirp", "npm:4.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:4.0.3", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/chokidar-npm-4.0.3-962354fbb4-10c0.zip/node_modules/chokidar/",\
         "packageDependencies": [\
           ["chokidar", "npm:4.0.3"],\
           ["readdirp", "npm:4.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/chokidar-npm-5.0.0-2f70d31c86-10c0.zip/node_modules/chokidar/",\
+        "packageDependencies": [\
+          ["chokidar", "npm:5.0.0"],\
+          ["readdirp", "npm:5.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11083,7 +11083,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.30.4"],\
           ["react-vite-ts-boilerplate", "workspace:."],\
-          ["sass", "npm:1.99.0"],\
+          ["sass", "npm:1.101.0"],\
           ["semantic-release", "npm:19.0.5"],\
           ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
@@ -11237,6 +11237,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/readdirp-npm-4.0.2-8001f0febc-10c0.zip/node_modules/readdirp/",\
         "packageDependencies": [\
           ["readdirp", "npm:4.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/readdirp-npm-5.0.0-82b01a282e-10c0.zip/node_modules/readdirp/",\
+        "packageDependencies": [\
+          ["readdirp", "npm:5.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11524,13 +11531,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.99.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.99.0-9ed8fe8584-10c0.zip/node_modules/sass/",\
+      ["npm:1.101.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.101.0-ce15824a44-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
           ["@parcel/watcher", "npm:2.4.1"],\
-          ["chokidar", "npm:4.0.1"],\
+          ["chokidar", "npm:5.0.0"],\
           ["immutable", "npm:5.1.5"],\
-          ["sass", "npm:1.99.0"],\
+          ["sass", "npm:1.101.0"],\
           ["source-map-js", "npm:1.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -12966,7 +12973,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.19"],\
           ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
           ["rollup", "npm:2.79.1"],\
-          ["sass", "npm:1.99.0"],\
+          ["sass", "npm:1.101.0"],\
           ["stylus", null],\
           ["sugarss", null],\
           ["terser", null],\
