@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.16...v1.2.17) (2026-06-19)
+
+
+### Bug Fixes
+
+* **deps:** update react-router monorepo to v6.30.4 ([#271](https://github.com/choisohyun/react-vite-ts-boilerplate/issues/271)) ([2ab8c8f](https://github.com/choisohyun/react-vite-ts-boilerplate/commit/2ab8c8f16fae2621a44cc1aeaac12b3bcd8fba22))
+
 ## [1.2.16](https://github.com/choisohyun/react-vite-ts-boilerplate/compare/v1.2.15...v1.2.16) (2026-02-25)
 
 
