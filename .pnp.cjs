@@ -48,6 +48,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.0"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
+          ["commit-and-tag-version", "npm:9.5.0"],\
           ["core-js", "npm:3.49.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
@@ -68,7 +69,6 @@ const RAW_RUNTIME_STATE =
           ["react-vite-ts-boilerplate", "workspace:."],\
           ["sass", "npm:1.101.0"],\
           ["semantic-release", "npm:19.0.5"],\
-          ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
           ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4"],\
@@ -4153,6 +4153,29 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/commander-npm-8.3.0-c0d18c66d5-10c0.zip/node_modules/commander/",\
         "packageDependencies": [\
           ["commander", "npm:8.3.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["commit-and-tag-version", [\
+      ["npm:9.5.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/commit-and-tag-version-npm-9.5.0-dc379de53b-10c0.zip/node_modules/commit-and-tag-version/",\
+        "packageDependencies": [\
+          ["chalk", "npm:2.4.2"],\
+          ["commit-and-tag-version", "npm:9.5.0"],\
+          ["conventional-changelog", "npm:3.1.25"],\
+          ["conventional-changelog-config-spec", "npm:2.1.0"],\
+          ["conventional-changelog-conventionalcommits", "npm:4.6.3"],\
+          ["conventional-recommended-bump", "npm:6.1.0"],\
+          ["detect-indent", "npm:6.1.0"],\
+          ["detect-newline", "npm:3.1.0"],\
+          ["dotgitignore", "npm:2.1.0"],\
+          ["figures", "npm:3.2.0"],\
+          ["find-up", "npm:5.0.0"],\
+          ["git-semver-tags", "npm:4.1.1"],\
+          ["semver", "npm:7.3.7"],\
+          ["stringify-package", "npm:1.0.1"],\
+          ["yargs", "npm:16.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11028,6 +11051,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.0"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
+          ["commit-and-tag-version", "npm:9.5.0"],\
           ["core-js", "npm:3.49.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
@@ -11048,7 +11072,6 @@ const RAW_RUNTIME_STATE =
           ["react-vite-ts-boilerplate", "workspace:."],\
           ["sass", "npm:1.101.0"],\
           ["semantic-release", "npm:19.0.5"],\
-          ["standard-version", "npm:9.5.0"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
           ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4"],\
@@ -11922,29 +11945,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/stackback-npm-0.0.2-73273dc92e-10c0.zip/node_modules/stackback/",\
         "packageDependencies": [\
           ["stackback", "npm:0.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["standard-version", [\
-      ["npm:9.5.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/standard-version-npm-9.5.0-5662d02730-10c0.zip/node_modules/standard-version/",\
-        "packageDependencies": [\
-          ["chalk", "npm:2.4.2"],\
-          ["conventional-changelog", "npm:3.1.25"],\
-          ["conventional-changelog-config-spec", "npm:2.1.0"],\
-          ["conventional-changelog-conventionalcommits", "npm:4.6.3"],\
-          ["conventional-recommended-bump", "npm:6.1.0"],\
-          ["detect-indent", "npm:6.1.0"],\
-          ["detect-newline", "npm:3.1.0"],\
-          ["dotgitignore", "npm:2.1.0"],\
-          ["figures", "npm:3.2.0"],\
-          ["find-up", "npm:5.0.0"],\
-          ["git-semver-tags", "npm:4.1.1"],\
-          ["semver", "npm:7.3.7"],\
-          ["standard-version", "npm:9.5.0"],\
-          ["stringify-package", "npm:1.0.1"],\
-          ["yargs", "npm:16.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
