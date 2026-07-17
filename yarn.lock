@@ -3381,9 +3381,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commit-and-tag-version@npm:9.5.0":
-  version: 9.5.0
-  resolution: "commit-and-tag-version@npm:9.5.0"
+"commit-and-tag-version@npm:9.6.0":
+  version: 9.6.0
+  resolution: "commit-and-tag-version@npm:9.6.0"
   dependencies:
     chalk: "npm:^2.4.2"
     conventional-changelog: "npm:3.1.25"
@@ -3401,7 +3401,7 @@ __metadata:
     yargs: "npm:^16.0.0"
   bin:
     commit-and-tag-version: bin/cli.js
-  checksum: 10c0/847088d694bf585d854a49d346f2eba83db52c3bfad92240d726bfb513a24361cf3a9a40d778daa6f50a2e645e310b6436534b5267614ffa2e8bfbe0193818d9
+  checksum: 10c0/aafb8160ca5f5baec46a517a00cb4cd2be803e4f04190ece7d6b0116f93066b6f5e051f390f019a41654aeea6b514c2172baf69fe48cb50107e79e7110d1c903
   languageName: node
   linkType: hard
 
@@ -9225,7 +9225,7 @@ __metadata:
     autoprefixer: "npm:10.5.4"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.14.0"
-    commit-and-tag-version: "npm:9.5.0"
+    commit-and-tag-version: "npm:9.6.0"
     core-js: "npm:3.49.0"
     cssnano: "npm:5.1.15"
     eslint: "npm:8.23.1"
