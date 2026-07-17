@@ -48,7 +48,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
-          ["commit-and-tag-version", "npm:9.5.0"],\
+          ["commit-and-tag-version", "npm:9.6.0"],\
           ["core-js", "npm:3.49.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
@@ -4165,11 +4165,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["commit-and-tag-version", [\
-      ["npm:9.5.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/commit-and-tag-version-npm-9.5.0-dc379de53b-10c0.zip/node_modules/commit-and-tag-version/",\
+      ["npm:9.6.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/commit-and-tag-version-npm-9.6.0-1efa05b279-10c0.zip/node_modules/commit-and-tag-version/",\
         "packageDependencies": [\
           ["chalk", "npm:2.4.2"],\
-          ["commit-and-tag-version", "npm:9.5.0"],\
+          ["commit-and-tag-version", "npm:9.6.0"],\
           ["conventional-changelog", "npm:3.1.25"],\
           ["conventional-changelog-config-spec", "npm:2.1.0"],\
           ["conventional-changelog-conventionalcommits", "npm:4.6.3"],\
@@ -11058,7 +11058,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
-          ["commit-and-tag-version", "npm:9.5.0"],\
+          ["commit-and-tag-version", "npm:9.6.0"],\
           ["core-js", "npm:3.49.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
