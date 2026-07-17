@@ -45,7 +45,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.62.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.2.0"],\
           ["@vitest/ui", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.7"],\
-          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.2"],\
+          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
           ["commit-and-tag-version", "npm:9.5.0"],\
@@ -3470,20 +3470,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["autoprefixer", [\
-      ["npm:10.5.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/autoprefixer-npm-10.5.2-d0113f188d-10c0.zip/node_modules/autoprefixer/",\
+      ["npm:10.5.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/autoprefixer-npm-10.5.4-dce88755a5-10c0.zip/node_modules/autoprefixer/",\
         "packageDependencies": [\
-          ["autoprefixer", "npm:10.5.2"]\
+          ["autoprefixer", "npm:10.5.4"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.2", {\
-        "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-5bf0d45aff/7/runner/cache/others/berry/cache/autoprefixer-npm-10.5.2-d0113f188d-10c0.zip/node_modules/autoprefixer/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4", {\
+        "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-c5e37f5d5c/7/runner/cache/others/berry/cache/autoprefixer-npm-10.5.4-dce88755a5-10c0.zip/node_modules/autoprefixer/",\
         "packageDependencies": [\
           ["@types/postcss", null],\
-          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.2"],\
+          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4"],\
           ["browserslist", "npm:4.28.6"],\
-          ["caniuse-lite", "npm:1.0.30001805"],\
+          ["caniuse-lite", "npm:1.0.30001806"],\
           ["fraction.js", "npm:5.3.4"],\
           ["picocolors", "npm:1.1.1"],\
           ["postcss", "npm:8.5.19"],\
@@ -3831,6 +3831,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001805-56684dbbf8-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
           ["caniuse-lite", "npm:1.0.30001805"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:1.0.30001806", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001806-92c0bb0a20-10c0.zip/node_modules/caniuse-lite/",\
+        "packageDependencies": [\
+          ["caniuse-lite", "npm:1.0.30001806"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11048,7 +11055,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.62.0"],\
           ["@vitejs/plugin-react", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:2.2.0"],\
           ["@vitest/ui", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.7"],\
-          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.2"],\
+          ["autoprefixer", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:10.5.4"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
           ["commit-and-tag-version", "npm:9.5.0"],\
