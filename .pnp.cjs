@@ -9051,7 +9051,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["hosted-git-info", "npm:2.8.9"],\
           ["normalize-package-data", "npm:2.5.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"],\
           ["semver", "npm:5.7.1"],\
           ["validate-npm-package-license", "npm:3.0.4"]\
         ],\
@@ -10086,7 +10086,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-import", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:15.1.0"],\
           ["postcss-value-parser", "npm:4.2.0"],\
           ["read-cache", "npm:1.0.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -11359,12 +11359,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["resolve", [\
-      ["patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-61fc5136ce-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-3369d8d843-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
           ["is-core-module", "npm:2.9.0"],\
           ["path-parse", "npm:1.0.7"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -12923,7 +12923,7 @@ const RAW_RUNTIME_STATE =
           ["fsevents", "patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
           ["less", null],\
           ["postcss", "npm:8.4.19"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"],\
           ["rollup", "npm:2.79.1"],\
           ["sass", "npm:1.101.0"],\
           ["stylus", null],\
