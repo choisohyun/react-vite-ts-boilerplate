@@ -71,7 +71,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:19.0.5"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.5"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.2"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.6"]\
@@ -11081,7 +11081,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:19.0.5"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.5"],\
           ["vite-plugin-html", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.2"],\
           ["vite-tsconfig-paths", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.6.0"],\
           ["vitest", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.34.6"]\
@@ -13041,15 +13041,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["vite-plugin-checker", [\
-      ["npm:0.14.4", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/vite-plugin-checker-npm-0.14.4-d4c9d5399a-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["npm:0.14.5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/vite-plugin-checker-npm-0.14.5-c8118b8a61-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
-          ["vite-plugin-checker", "npm:0.14.4"]\
+          ["vite-plugin-checker", "npm:0.14.5"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4", {\
-        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-4157ac5721/7/runner/cache/others/berry/cache/vite-plugin-checker-npm-0.14.4-d4c9d5399a-10c0.zip/node_modules/vite-plugin-checker/",\
+      ["virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.5", {\
+        "packageLocation": "./.yarn/__virtual__/vite-plugin-checker-virtual-3c3c0db355/7/runner/cache/others/berry/cache/vite-plugin-checker-npm-0.14.5-c8118b8a61-10c0.zip/node_modules/vite-plugin-checker/",\
         "packageDependencies": [\
           ["@babel/code-frame", "npm:7.29.7"],\
           ["@biomejs/biome", null],\
@@ -13075,7 +13075,7 @@ const RAW_RUNTIME_STATE =
           ["tiny-invariant", "npm:1.3.3"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
-          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.4"],\
+          ["vite-plugin-checker", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:0.14.5"],\
           ["vue-tsc", null]\
         ],\
         "packagePeers": [\
