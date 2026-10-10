@@ -67,7 +67,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.30.6"],\
           ["react-vite-ts-boilerplate", "workspace:."],\
-          ["sass", "npm:1.101.0"],\
+          ["sass", "npm:1.105.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
@@ -11070,7 +11070,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:18.3.1"],\
           ["react-router-dom", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:6.30.6"],\
           ["react-vite-ts-boilerplate", "workspace:."],\
-          ["sass", "npm:1.101.0"],\
+          ["sass", "npm:1.105.1"],\
           ["semantic-release", "npm:19.0.5"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["vite", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:3.2.11"],\
@@ -11510,13 +11510,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.101.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.101.0-ce15824a44-10c0.zip/node_modules/sass/",\
+      ["npm:1.105.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.105.1-098d53c46e-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
           ["@parcel/watcher", "npm:2.4.1"],\
           ["chokidar", "npm:5.0.0"],\
           ["immutable", "npm:5.1.5"],\
-          ["sass", "npm:1.101.0"],\
+          ["sass", "npm:1.105.1"],\
           ["source-map-js", "npm:1.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -12918,7 +12918,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.19"],\
           ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"],\
           ["rollup", "npm:2.79.1"],\
-          ["sass", "npm:1.101.0"],\
+          ["sass", "npm:1.105.1"],\
           ["stylus", null],\
           ["sugarss", null],\
           ["terser", null],\
