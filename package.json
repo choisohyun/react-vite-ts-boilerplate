@@ -1,7 +1,7 @@
 {
   "name": "react-vite-ts-boilerplate",
   "description": "Very Fast React + Vite Boilerplate",
-  "version": "1.2.17",
+  "version": "1.2.18",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
@@ -53,6 +53,7 @@
     "autoprefixer": "10.5.4",
     "babel-polyfill": "6.26.0",
     "c8": "7.14.0",
+    "commit-and-tag-version": "9.6.0",
     "core-js": "3.49.0",
     "cssnano": "5.1.15",
     "eslint": "8.23.1",
@@ -69,7 +70,6 @@
     "prettier": "2.7.1",
     "sass": "1.101.0",
     "semantic-release": "19.0.5",
-    "commit-and-tag-version": "9.6.0",
     "typescript": "4.9.5",
     "vite": "3.2.11",
     "vite-plugin-checker": "0.14.5",
