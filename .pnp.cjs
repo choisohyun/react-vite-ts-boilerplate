@@ -49,7 +49,7 @@ const RAW_RUNTIME_STATE =
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
           ["commit-and-tag-version", "npm:9.6.0"],\
-          ["core-js", "npm:3.49.0"],\
+          ["core-js", "npm:3.50.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
@@ -4510,10 +4510,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.49.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/core-js-npm-3.49.0-0a974f48cc-10c0.zip/node_modules/core-js/",\
+      ["npm:3.50.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/core-js-npm-3.50.0-c518f629d4-10c0.zip/node_modules/core-js/",\
         "packageDependencies": [\
-          ["core-js", "npm:3.49.0"]\
+          ["core-js", "npm:3.50.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -11052,7 +11052,7 @@ const RAW_RUNTIME_STATE =
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
           ["commit-and-tag-version", "npm:9.6.0"],\
-          ["core-js", "npm:3.49.0"],\
+          ["core-js", "npm:3.50.0"],\
           ["cssnano", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
           ["eslint-config-prettier", "virtual:2a4e9dace022057175a083496c0ac5b75c33c32a608467b972f1b2536df13ef41f37b30a5cc92f9313818befb060475002505ecbb105b86b1a7fbf67cdbfb676#npm:8.5.0"],\
